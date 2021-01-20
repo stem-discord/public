@@ -2,14 +2,20 @@
 
 ## |== **TABLE OF CONTENTS** ==|  
 
-+ [**CODE OF CONDUCT**](#code-of-conduct)
-    + [**A.** Good to Do](#a.-good-to-do)
-    + [**B.** Toxic Behaviour](#b.-toxic-behaviour)
-    + [**C.** Spam](#c.-spam)
-    + [**D.** Inappropriate Content](#d.-inappropriate-content)
-+ [**REPORTING**](#reporting)
-+ [**PUNISHMENT**](#punishment)
-+ [**APPEALS**](#appeals)
++ [**CODE OF CONDUCT**](#-code-of-conduct-)
+    + [**A.** Good to Do](#a-good-to-do)
+    + [**B.** Toxic Behaviour](#b-toxic-behaviour)
+    + [**C.** Spam](#c-spam)
+    + [**D.** Inappropriate Content](#d-inappropriate-content)
++ [**REPORTING**](#-reporting-)
++ [**PUNISHMENT**](#-punishment-)
++ [**APPEALS**](#-appeals-)
+
+<br />
+
+***
+
+<br />
 
 ## |== **CODE OF CONDUCT** ==|  
 
@@ -20,7 +26,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 
 **A-1:** Respect all [Discord Terms of Service and Guidelines](https://discordapp.com/guidelines). This includes all the basics, including but not limited to: be respectful of one another, don't harass, don't spam, don't spam, don't post inappropriate or malicious content.  
 
-**A-2:** Respect all lawful staff instructions and decisions. DO NOT try and pick a fight with staff (at least in public), no matter how wrong you think they may be. Our first priority is to resolve the immediate issue and restore server order, and we cannot do that if there are people openly arguing and disobeying us. We can address further concerns once the issue is settled. If you suspect a staff member is acting out of line, you may report them (see the [Reporting](#Reporting) section below). We are only human, so we seek your understanding. Harassment and abuse of staff will not be tolerated.  
+**A-2:** Respect all lawful staff instructions and decisions. DO NOT try and pick a fight with staff (at least in public), no matter how wrong you think they may be. Our first priority is to resolve the immediate issue and restore server order, and we cannot do that if there are people openly arguing and disobeying us. We can address further concerns once the issue is settled. If you suspect a staff member is acting out of line, you may report them (see the [Reporting](#-reporting-) section below). We are only human, so we seek your understanding. Harassment and abuse of staff will not be tolerated.  
 
 **A-3:** Post in the appropriate channel. e.g Do not initiate non-STEM conversations in the STEM channels. Each channel has a purpose, which is described in the channel description (at the top of your window).  
 
@@ -35,7 +41,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 ### **B. Toxic Behaviour**  
 "Toxic Behaviour" is the antithesis of respect. It is any behavior that, when exposed to others, threatens their mental health and well-being, usually by being unnaturally hostile and aggressive. "Harassment" is a type of toxic behaviour that targets specific people or groups of people, with the intent to badmouth, offend, provoke, intimidate, harm, or otherwise make them uncomfortable.  
 
-**B-1:** Toxic behaviour and especially harassment is forbidden in this server. Such actions include (but are not limited to) derogatory remarks, discriminatory (e.g racist, sexist, homophobic, ageist, or ableist) remarks, and hate speech. Toxic behaviour is highly variable in intensity, and may range anywhere from being acceptable after all (e.g. casual criticism), to getting banned straight away in extreme cases. We will do our best to review each case and mete out the most appropriate measure. See the [Punishment](#Punishment) section below for our guidelines.  
+**B-1:** Toxic behaviour and especially harassment is forbidden in this server. Such actions include (but are not limited to) derogatory remarks, discriminatory (e.g racist, sexist, homophobic, ageist, or ableist) remarks, and hate speech. Toxic behaviour is highly variable in intensity, and may range anywhere from being acceptable after all (e.g. casual criticism), to getting banned straight away in extreme cases. We will do our best to review each case and mete out the most appropriate measure. See the [Punishment](#-punishment-) section below for our guidelines.  
 
 **B-2:** If someone adopts such a toxic attitude towards you, be proactive and report that user to us and block them. Do not retaliate, or you may possibly be punished as well for aggravation of the situation.  
 
