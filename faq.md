@@ -1,4 +1,4 @@
-# FAQ
+# [FAQ](https://discord.com/channels/493173110799859713/770101322996252722)
 ## Q: How are the Top Helper Roles distributed?
 
 ❯ `@Top Helper ∞`: Given to the all-time top helper 
@@ -45,7 +45,7 @@ The remaining three are given to members with atleast a weekly thank count of:
 
 `,calc` followed by a math expression works like a basic calculator (example: `,calc 25*86`)
 
-❯ There are many people in the server who are really good with LaTeX and the bot in general (there are fun commands too :)), you are always welcome to ask us for help! To end this off on a positive note, you'll learn more by just trying out things yourself, so don't be afraid to let your curiosity flow in `#commands` or `#spam!`
+❯ There are many people in the server who are really good with LaTeX and the bot in general (there are fun commands too :)), you are always welcome to ask us for help! To end this off on a positive note, you'll learn more by just trying out things yourself, so don't be afraid to let your curiosity flow in [`#commands`](https://discord.com/channels/493173110799859713/691983378089771079) or [`#spam!`](https://discord.com/channels/493173110799859713/753617965823295546)
 
 ## Q: How do you get a colored role
 
