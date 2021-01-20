@@ -37,3 +37,20 @@ Consider these examples of good and bad explanations:
 * I don't get what "orthonormal basis" is supposed to mean. 
   I checked wikipedia and tried googling but none of the explanations make sense.
 ```
+
+4. Ping the right role After you post your question, you can ping one of the Helper roles. For example, if you need help with computer science, you can ping the `@Helper > CS role`. Someone will eventually come by and help you. Don't ping anyone else - this includes random online users and @everyone
+
+
+Roles available for pinging:
+
+`@Helper > Math`
+`@Helper > Physics`
+`@Helper > Chemistry`
+`@Helper > Biology`
+`@Helper > CS`
+`@Helper > Engineering`
+
+5. Do not post on multiple channels, patiently wait for someone to help you, and be respectful when they do All STEM helpers are volunteers. If they're taking time out of their day to help you, the least you can do is be nice to them.
+
+**(Do not DM Helpers)**
+
