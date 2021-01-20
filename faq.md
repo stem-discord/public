@@ -17,7 +17,7 @@ The remaining three are given to members with atleast a weekly thank count of:
 
 ## Q: How do I use `@Tex`?
 
-❯ `@Tex` is a high quality LaTeX rendering and maths bot. We mainly use it to render beautiful maths in LaTeX or interact with Wolfram Alpha. Check this out for detailed commands for Latex: https://www.ntg.nl/doc/biemesderfer/ltxcrib.pdf
+❯ `@Tex` is a high quality LaTeX rendering and maths bot. We mainly use it to render beautiful maths in LaTeX or interact with Wolfram Alpha. Check this out for detailed commands for Latex: [LaTeX help](https://www.ntg.nl/doc/biemesderfer/ltxcrib.pdf)
 
 ❯ `@Tex` will render anything you put between two dollar signs `${math stuff}$` in latex (example: `This is normal text and $\frac{x}{2}$ was a beautiful fraction in Latex`). 
 
