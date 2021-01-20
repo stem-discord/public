@@ -19,7 +19,7 @@ How to ask questions:
   You know how all of the singular values have to be non-negative, but [...]
 ```
 
-> You can post a picture of your problem if you want, but make sure it has good lighting and correct orientation. If the image contains multiple problems, specify which problem you need help with. See https://sol.gfxile.net/dontask.html for more guidance.
+> You can post a picture of your problem if you want, but make sure it has good lighting and correct orientation. If the image contains multiple problems, specify which problem you need help with. See [here](https://sol.gfxile.net/dontask.html) for more guidance.
 
 3. State what you don't understand, and which approaches you have already tried We want to help you learn, so most of the time we will guide you through the problem instead of just giving you the solution. To do that effectively, we need to know your strengths and weaknesses in relevant subjects. This helps us skip the parts that you understand well and focus on things that you need to learn more about.
 
