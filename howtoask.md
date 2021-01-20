@@ -1,8 +1,8 @@
-# Want some help with homework or other STEM-related problems? Follow this `#how-to-ask` guide.
+# Want some help with homework or other STEM-related problems? Follow this [`#how-to-ask`](https://discord.com/channels/493173110799859713/625027300920000542) guide.
 
 How to ask questions:
 
-1. Pick the right channel. Use common sense to pick the most suitable topic channel for your problem. If you're unsure which channel to use, post in the channel you think is appropriate and people will direct you to the right channel if needed. Don't post your STEM questions to `#stem-general` unless you want to start a high level STEM discussion.
+1. Pick the right channel. Use common sense to pick the most suitable topic channel for your problem. If you're unsure which channel to use, post in the channel you think is appropriate and people will direct you to the right channel if needed. Don't post your STEM questions to [`#stem-general`](https://discord.com/channels/493173110799859713/687238115114614906) unless you want to start a high level STEM discussion.
 
 2. Describe your problem. Send a message describing the problem you need help with. Don't "ask to ask" - that is, make sure you actually describe your problem in your message. If your question is simply "Can someone help me?", it will be ignored. Here are some examples of good and bad questions:
 
