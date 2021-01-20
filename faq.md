@@ -79,7 +79,7 @@ The remaining three are given to members with atleast a weekly thank count of:
 
 ## Can I get help?
 
-❯ Don't ask to ask (https://dontasktoask.com/), just ask!
+❯ [Don't ask to ask](https://dontasktoask.com/), just ask!
 
 ❯ Here's a general guideline to follow when asking for help:
 - Pick an appropriate channel (i.e. not being currently used and is related to the subject)
