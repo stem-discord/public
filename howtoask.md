@@ -6,27 +6,27 @@
 
 _List of Help Channels_
 1. Maths - *used for calc 2 and below*:
-  - [`general-math-π`](https://discord.com/channels/493173110799859713/754860723321962628)
-  - [`general-math-λ`](https://discord.com/channels/493173110799859713/704944645712642098)
-  - [`general-math-ω`](https://discord.com/channels/493173110799859713/536995777981972491)
-  - [`general-math-θ`](https://discord.com/channels/493173110799859713/641351235215294486)
-  - [`general-math-ϕ`](https://discord.com/channels/493173110799859713/641351291343208448)
+  - [`#general-math-π`](https://discord.com/channels/493173110799859713/754860723321962628)
+  - [`#general-math-λ`](https://discord.com/channels/493173110799859713/704944645712642098)
+  - [`#general-math-ω`](https://discord.com/channels/493173110799859713/536995777981972491)
+  - [`#general-math-θ`](https://discord.com/channels/493173110799859713/641351235215294486)
+  - [`#general-math-ϕ`](https://discord.com/channels/493173110799859713/641351291343208448)
 2. Advanced maths (see [faq](https://github.com/stem-discord/public/blob/main/faq.md) for more info on advanced maths) - *used for calc 3 and above*:
-  - [`advanced-math`](https://discord.com/channels/493173110799859713/641441793459748874)
-  - [`advanced-math-2`](https://discord.com/channels/493173110799859713/774406401534722068)
+  - [`#advanced-math`](https://discord.com/channels/493173110799859713/641441793459748874)
+  - [`#advanced-math-2`](https://discord.com/channels/493173110799859713/774406401534722068)
 3. Sciences - *used for biology, chemistry and physics of all levels*:
-  - [`physics-heisenberg`](https://discord.com/channels/493173110799859713/536995799859724309)
-  - [`physics-faraday`](https://discord.com/channels/493173110799859713/627265780056195083)
-  - [`chemistry-curie`](https://discord.com/channels/493173110799859713/536995822982922270)
-  - [`chemistry-pauling`](https://discord.com/channels/493173110799859713/768908785640144986)
-  - [`biology`](https://discord.com/channels/493173110799859713/597092974882455562)
-  - [`other-sciences`](https://discord.com/channels/493173110799859713/597073353936994305)
+  - [`#physics-heisenberg`](https://discord.com/channels/493173110799859713/536995799859724309)
+  - [`#physics-faraday`](https://discord.com/channels/493173110799859713/627265780056195083)
+  - [`#chemistry-curie`](https://discord.com/channels/493173110799859713/536995822982922270)
+  - [`#chemistry-pauling`](https://discord.com/channels/493173110799859713/768908785640144986)
+  - [`#biology`](https://discord.com/channels/493173110799859713/597092974882455562)
+  - [`#other-sciences`](https://discord.com/channels/493173110799859713/597073353936994305)
 4. Engineering and technology - *used for engineering and technological help*:
-  - [`computer-science`](https://discord.com/channels/493173110799859713/536996271349694489)
-  - [`code-talks`](https://discord.com/channels/493173110799859713/641351624115355689)
-  - [`engineering`](https://discord.com/channels/493173110799859713/628050013435592704)
+  - [`#computer-science`](https://discord.com/channels/493173110799859713/536996271349694489)
+  - [`#code-talks`](https://discord.com/channels/493173110799859713/641351624115355689)
+  - [`#engineering`](https://discord.com/channels/493173110799859713/628050013435592704)
 5. Others (we do not have other dedicated subject channels as we are a STEM server) - *used for anything not in the above categories*:
-  - [`other-subjects`](https://discord.com/channels/493173110799859713/627265726243405844)
+  - [`#other-subjects`](https://discord.com/channels/493173110799859713/627265726243405844)
   
 **Post your question in the correct channel** from the above categories.
 ------
