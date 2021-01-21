@@ -24,56 +24,60 @@ We are an educational server and we therefore adopt a strict stance against misc
 ### **A. Good to Do**  
 These are rules that you should observe at all times. Repeated negligence may be punishable.  
 
-**A-1:** Respect all [Discord Terms of Service and Guidelines](https://discordapp.com/guidelines). This includes all the basics, including but not limited to: be respectful of one another, don't harass, don't spam, don't spam, don't post inappropriate or malicious content.  
+1. Respect all [Discord Terms of Service and Guidelines](https://discordapp.com/guidelines). This includes all the basics, including but not limited to: be respectful of one another, don't harass, don't spam, don't spam, don't post inappropriate or malicious content.  
 
-**A-2:** Respect all lawful staff instructions and decisions. DO NOT try and pick a fight with staff (at least in public), no matter how wrong you think they may be. Our first priority is to resolve the immediate issue and restore server order, and we cannot do that if there are people openly arguing and disobeying us. We can address further concerns once the issue is settled. If you suspect a staff member is acting out of line, you may report them (see the [Reporting](#-reporting-) section below). We are only human, so we seek your understanding. Harassment and abuse of staff will not be tolerated.  
+2. Respect all lawful staff instructions and decisions. DO NOT try and pick a fight with staff (at least in public), no matter how wrong you think they may be. Our first priority is to resolve the immediate issue and restore server order, and we cannot do that if there are people openly arguing and disobeying us. We can address further concerns once the issue is settled. If you suspect a staff member is acting out of line, you may report them (see the [Reporting](#-reporting-) section below). We are only human, so we seek your understanding. Harassment and abuse of staff will not be tolerated.  
 
-**A-3:** Post in the appropriate channel. e.g Do not initiate non-STEM conversations in the STEM channels. Each channel has a purpose, which is described in the channel description (at the top of your window).  
+3. Post in the appropriate channel. e.g Do not initiate non-STEM conversations in the STEM channels. Each channel has a purpose, which is described in the channel description (at the top of your window).  
 
-**A-4**: Refer to [`#how-to-ask`](https://discord.com/channels/493173110799859713/625027300920000542) for detailed question-asking etiquette.  
+4. Refer to [`#how-to-ask`](https://discord.com/channels/493173110799859713/625027300920000542) for detailed question-asking etiquette.  
 
-**A-5:** Do not engage in academically dishonest behavior. This includes:
-+ **A-5A:** Asking for help for tests/exams. That's cheating.
-+ **A-5B:** Offering to pay others for doing your work, or offering to do work in exchange for pay. We won't be responsible if you get scammed.  
+5. Do not engage in academically dishonest behavior. This includes:
+    <ol type="A">
+    <li> Asking for help for tests/exams. That's cheating.</li>
+    <li> Offering to pay others for doing your work, or offering to do work in exchange for pay. We won't be responsible if you get scammed. </li>
+    </ol> 
 
-**A-6:** English must be the only language used to communicate in all channels, except those labelled 'other languages'.  
+6. English must be the only language used to communicate in all channels, except those labelled 'other languages'.  
 
 ### **B. Toxic Behaviour**  
 "Toxic Behaviour" is the antithesis of respect. It is any behavior that, when exposed to others, threatens their mental health and well-being, usually by being unnaturally hostile and aggressive. "Harassment" is a type of toxic behaviour that targets specific people or groups of people, with the intent to badmouth, offend, provoke, intimidate, harm, or otherwise make them uncomfortable.  
 
-**B-1:** Toxic behaviour and especially harassment is forbidden in this server. Such actions include (but are not limited to) derogatory remarks, discriminatory (e.g racist, sexist, homophobic, ageist, or ableist) remarks, and hate speech. Toxic behaviour is highly variable in intensity, and may range anywhere from being acceptable after all (e.g. casual criticism), to getting banned straight away in extreme cases. We will do our best to review each case and mete out the most appropriate measure. See the [Punishment](#-punishment-) section below for our guidelines.  
+1. Toxic behaviour and especially harassment is forbidden in this server. Such actions include (but are not limited to) derogatory remarks, discriminatory (e.g racist, sexist, homophobic, ageist, or ableist) remarks, and hate speech. Toxic behaviour is highly variable in intensity, and may range anywhere from being acceptable after all (e.g. casual criticism), to getting banned straight away in extreme cases. We will do our best to review each case and mete out the most appropriate measure. See the [Punishment](#-punishment-) section below for our guidelines.  
 
-**B-2:** If someone adopts such a toxic attitude towards you, be proactive and report that user to us and block them. Do not retaliate, or you may possibly be punished as well for aggravation of the situation.  
+2. If someone adopts such a toxic attitude towards you, be proactive and report that user to us and block them. Do not retaliate, or you may possibly be punished as well for aggravation of the situation.  
 
-**B-3:** In arguments, be civil and open-minded: understand that no one (including yourself) knows everything or interprets issues the same way. If the discussion devolves into immature shit-flinging, staff have the right to step in and demand cessation of the "debate".  
+3. In arguments, be civil and open-minded: understand that no one (including yourself) knows everything or interprets issues the same way. If the discussion devolves into immature shit-flinging, staff have the right to step in and demand cessation of the "debate".  
 
 ### **C. Spam**  
 "Spam" is a loose category of actions, characterised by annoying other users by needlessly drawing attention, usually by creating notifications and/or taking up a lot of space. Naturally, spam is not allowed in this server. Some examples of spam are described below, though these may not be the only types.  
 
-**C-1:** Off-topic spam is the posting of a lot of messages or other media that add little to no value to the channel or ongoing conversation.  
-+ **C-1A:** Spam-pinging is the unnecessary and especially repeated pinging (using `@`) of other users.  
-+ **C-2B:** Ghost pinging is pinging someone and then deleting the message containing the ping, giving the person nothing to reply to.  
+1. Off-topic spam is the posting of a lot of messages or other media that add little to no value to the channel or ongoing conversation.
+    <ol type="A">  
+    <li> Spam-pinging is the unnecessary and especially repeated pinging (using `@`) of other users. </li>  
+    <li> Ghost pinging is pinging someone and then deleting the message containing the ping, giving the person nothing to reply to. </li> 
+    </ol> 
 
-**C-2:** Direct-message (DM) spam is the unwanted private-messaging of other users, especially regarding advertising or soliciting. Do not DM users without their permission.   
+2. Direct-message (DM) spam is the unwanted private-messaging of other users, especially regarding advertising or soliciting. Do not DM users without their permission.   
 
-**C-3:** Advertising is posting a link to a server or website with the intention of getting more exposure for that server or website. If you want to advertise something, propose it to us, and we will review it and give it the right exposure. Otherwise, it will be treated as spam.   
+3. Advertising is posting a link to a server or website with the intention of getting more exposure for that server or website. If you want to advertise something, propose it to us, and we will review it and give it the right exposure. Otherwise, it will be treated as spam.   
 
-**C-4:** Soliciting is harrassing someone to get them to do something they otherwise wouldn't want to do, such as answering questions or visiting links.  
+4. Soliciting is harrassing someone to get them to do something they otherwise wouldn't want to do, such as answering questions or visiting links.  
 
-**C-5:** Any sort of loud, disruptive sound in voice chat (e.g screaming, ear-rape, soundboard or playing music through your microphone) is prohibited.  
+5. Any sort of loud, disruptive sound in voice chat (e.g screaming, ear-rape, soundboard or playing music through your microphone) is prohibited.  
 
 ### **D. Inappropriate Content**  
 "Content" refers to all forms of media, including text, emojis, usernames/nicknames, statuses, profile pictures, images, links, etc.  
 
-**D-1:** Cursing is okay, unless it is excessive (spam) or directed at another user (harassment). SFW content is content that can be safely viewed at school or work without getting you in trouble. We strive to make all content SFW. Conversely, NSFW content is content that touches on sensitive/uncomfortable topics. This most commonly refers to, but is not limited to, pornography or violence.  
+1. Cursing is okay, unless it is excessive (spam) or directed at another user (harassment). SFW content is content that can be safely viewed at school or work without getting you in trouble. We strive to make all content SFW. Conversely, NSFW content is content that touches on sensitive/uncomfortable topics. This most commonly refers to, but is not limited to, pornography or violence.  
 
-**D-2:** Questionable content is content where the topic is clearly NSFW or approaches NSFW territory, but nothing explicit is shown/written. Alternatively, it may be explicit if it is for medical purposes. Such content is allowed in NSFW channels, but NOT ALLOWED in SFW channels.  
+2. Questionable content is content where the topic is clearly NSFW or approaches NSFW territory, but nothing explicit is shown/written. Alternatively, it may be explicit if it is for medical purposes. Such content is allowed in NSFW channels, but NOT ALLOWED in SFW channels.  
 
-**D-3:** Explicit content deals with NSFW topics and has direct and/or graphic terms, descriptions, and/or imagery, and may be described as disgusting or disturbing. Such content is NOT ALLOWED IN THE SERVER AT ALL, NOT EVEN IN the NSFW channels. You will likely get instantly-banned, no excuses.  
+3. Explicit content deals with NSFW topics and has direct and/or graphic terms, descriptions, and/or imagery, and may be described as disgusting or disturbing. Such content is NOT ALLOWED IN THE SERVER AT ALL, NOT EVEN IN the NSFW channels. You will likely get instantly-banned, no excuses.  
 
-**D-4:** In all cases, express promotion of hate, harm, and sociopathy is forbidden.  
+4. In all cases, express promotion of hate, harm, and sociopathy is forbidden.  
 
-**D-5:** Malicious content is content that threatens a user's online (and possibly offline) privacy and security. e.g. Links to scams and phising websites. Viruses and malware. Such content is very serious and will likely result in an instant ban.    
+5. Malicious content is content that threatens a user's online (and possibly offline) privacy and security. e.g. Links to scams and phising websites. Viruses and malware. Such content is very serious and will likely result in an instant ban.    
 
 <br />
 
