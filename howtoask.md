@@ -11,7 +11,7 @@ _List of Help Channels_
   - [`#general-math-ω`](https://discord.com/channels/493173110799859713/536995777981972491)
   - [`#general-math-θ`](https://discord.com/channels/493173110799859713/641351235215294486)
   - [`#general-math-ϕ`](https://discord.com/channels/493173110799859713/641351291343208448)
-2. Advanced maths (see [faq](https://github.com/stem-discord/public/blob/main/faq.md) for more info on advanced maths) - *used for calc 3 and above*:
+2. Advanced maths (see [faq](https://github.com/stem-discord/public/blob/main/faq.md) for more info on advanced maths) - *used for linear algebra, calc 3 and above*:
   - [`#advanced-math`](https://discord.com/channels/493173110799859713/641441793459748874)
   - [`#advanced-math-2`](https://discord.com/channels/493173110799859713/774406401534722068)
 3. Sciences - *used for biology, chemistry and physics of all levels*:
@@ -55,3 +55,12 @@ Roles available for pinging:
 5. **Do not post in multiple channels**, patiently wait for someone to help you, and be respectful when they do: **All STEM helpers are volunteers**. If they're taking time out of their day to help you, the least you can do is be nice to them. When they have finished helping, be sure to drop them a thank - they've gone out of their way just to help you!
 ------
 **(Do not DM Helpers)**
+
+## Examples of good questions
+
+```
+* I've been asked to solve 5x^2 + 25x + 100 = 0 by completing the square - how would I start to do this?
+* Could someone please remind me on how to get the determinant of 2x2 matrix. I need it for a linear algebra assignment.
+* Hi! Could anyone guide me on how to differentiate this function: sqrt(x^2 - 1) + 5x^7. I'm trying to do it using chain rule but I can't seem to be able to apply it properly.
+* What is the difference between a Taylor Polynomial and Maclaurin Polynomial, I tried googling but nothing makes sense.
+```
