@@ -6,19 +6,17 @@ Thanks are automatically granted "points" that are given to people that help on 
 ### **How do I get/give thanks?**  
 First off, read [How to ask](./howtoask.md)  
 
-After someone helps you, in order to give them thanks, send a message with one of these words in it: <t style="color:pink">"Thank/s"</t>, <t style="color:pink">"ty"</t>, <t style="color:pink">"Thnx"</t>, <t style="color:pink">"Thx"</t>, <t style="color:pink">"Tnx"</t>, <t style="color:pink">"Tysm"</t>, <t style="color:pink">"Tyvm"</t>, <t style="color:pink">"Danke"</t>
+After someone helps you, in order to give them thanks, send a message with one of these words in it: "Thank/s", "ty", "Thnx", "Thx", "Tnx", "Tysm", "Tyvm", "Danke"
 
 + If no one was mentioned in your message, and it wasn't a reply, you will be sent an embed that looks something like:
 
-    <p style="background-color:#333333">
-    <t style="font-size:120%"><b>Select who the thank is aimed towards</b></t><br /> <br />
-    <b>1 ❯</b> <code>@🍒 nop | CEO of hell 🍒</code> <br />
-    <b>2 ❯</b> <code>@Remceau</code> <br /> 
-    <b>3 ❯</b> <code>@Hell’s Rick Astley (Don’t DM)</code> <br />
-    <b>4 ❯</b> <code>@Tim Werbenjagermanjenson</code> <br />
-    </p>
+    **Select who the thank is aimed towards**  
+    **1 ❯** `@🍒 nop | CEO of hell 🍒`    
+    **2 ❯** `@Remceau`  
+    **3 ❯** `@Hell’s Rick Astley (Don’t DM)`    
+    **4 ❯** `@Tim Werbenjagermanjenson`  
 
-    Under this embed will be 4 reactions: **1**, **2**, **3**, **4**, and <img src="./images/delete_symbol.png" style="width:15px;height:15px;">. You should react with the number that corresponds to the person who helped you, or <img src="./images/delete_symbol.png" style="width:15px;height:15px;"> if it was a mistake.
+    Under this embed will be 4 reactions: **1**, **2**, **3**, **4**, and <img src="./images/delete_symbol.png" width="15" height="15">. You should react with the number that corresponds to the person who helped you, or <img src="./images/delete_symbol.png" width="15" height="15"> if it was a mistake.
 
     
 
@@ -61,11 +59,15 @@ Weekly thank points are reset at midnight on monday, GMT time.
 Thank points help create a educational competitive enviornment which leads helpers to strive to help as many people as they can. 
 Top helpers are given color roles, and are displayed seperately from other members.  
 The top helper roles are as follows (from [faq](./faq.md#q-how-are-the-top-helper-roles-distributed)):  
-<p style="background-color:#333333">
-❯ <t style="color:red"> @Top Helper ∞ </t>: Given to the all-time top helper <br />  
-❯ <t style="color:#ff66aa"> @Top Helper Ω </t>: Given to the weekly top helper <br /> <br />
-The remaining three are given to members with at least a weekly thank count of: <br /> <br />
-❯ <t style="color:purple"> @Top Helper γ </t>: 3% of the weekly top helper count <br />
-❯ <t style="color:orange"> @Top Helper β </t>: 25% of the weekly top helper count <br />
-❯ <t style="color:yellow"> @Top Helper α </t>: 70% of the weekly top helper count
-</p>
+
+❯ `@Top Helper ∞`: Given to the all-time top helper 
+
+❯ `@Top Helper Ω`: Given to the weekly top helper 
+
+The remaining three are given to members with atleast a weekly thank count of:
+
+❯ `@Top Helper γ`: 3% of the weekly top helper count
+
+❯ `@Top Helper β`: 25% of the weekly top helper count
+
+❯ `@Top Helper α`: 70% of the weekly top helper count
