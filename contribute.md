@@ -10,3 +10,7 @@ just follow the format everyone else is doing
 > `690283141096669225` [Everyone'sRickRoller#0001](https://github.com/rickastley1)
 
 > `378155918954594306` [∞¹#5994](https://github.com/turtleStew)
+
+> `760225250716680283` [Slurp#8160](https://github.com/Shlurp)
+
+> `763966215261126676` [arshsverma#1289](https://github.com/arshsverma)
