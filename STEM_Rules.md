@@ -15,6 +15,8 @@
 
 ***
 
+**Our rules are built above [Discord's TOS](https://discord.com/terms). Every rule below has this TOS as it's basis. saying X is allowed automatically implies X is allowed as long as it obeys the TOS**
+
 <br />
 
 ## |== **CODE OF CONDUCT** ==|  
