@@ -15,7 +15,7 @@
 
 ***
 
-**Our rules are built above [Discord's TOS](https://discord.com/terms). Every rule below has this TOS as it's basis. saying X is allowed automatically implies X is allowed as long as it obeys the TOS**
+**Our rules are built above [Discord's TOS](https://discord.com/terms). Every rule below has this TOS as it's basis; saying X is allowed automatically implies X is allowed as long as it obeys the TOS**
 
 <br />
 
@@ -83,7 +83,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 5. Malicious content is content that threatens a user's online (and possibly offline) privacy and security. e.g. Links to scams and phising websites. Viruses and malware. Such content is very serious and will likely result in an instant ban.    
 
 > **Allowed cases:**  
-> status: self promotion such as instagram or facebook id, discord server invite, or general affiliate links. political opinion are allowed
+> On your discord status: self promotion (eg. an Instagram or Facebook id, Discord server invite, general affiliate links) and political opinions are allowed.
 
 <br />
 
