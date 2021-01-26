@@ -82,6 +82,9 @@ These are rules that you should observe at all times. Repeated negligence may be
 
 5. Malicious content is content that threatens a user's online (and possibly offline) privacy and security. e.g. Links to scams and phising websites. Viruses and malware. Such content is very serious and will likely result in an instant ban.    
 
+> **Allowed cases:**  
+> status: self promotion such as instagram or facebook id, discord server invite, or general affiliate links. political opinion are allowed
+
 <br />
 
 ***
