@@ -33,6 +33,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 4. Refer to [`#how-to-ask`](https://discord.com/channels/493173110799859713/625027300920000542) for detailed question-asking etiquette.  
 
 5. Do not engage in academically dishonest behavior. This includes:
+    <!-- FIXME: this styling is ignored by github anyway. use default styles -->
     <ol type="A">
     <li> Asking for help for tests/exams. That's cheating.</li>
     <li> Offering to pay others for doing your work, or offering to do work in exchange for pay. We won't be responsible if you get scammed. </li>
