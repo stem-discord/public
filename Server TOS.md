@@ -2,7 +2,7 @@
 
 - deleted messages are logged by a bot - only viewable by staff members
 - every media will be shallow copied upon sending on public channels - only viewable by staff members
-- every messages to the STEM bot will be forwarded to a channel - only viewable by staff members.
+- every message (DM) to the STEM bot will be forwarded to a channel - only viewable by staff members.
 
 ---
 
