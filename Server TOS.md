@@ -7,4 +7,4 @@
 + Staff members reserve the right to mute/kick/ban members at their discretion.
 ---
 
-last edit date: 27th of January, 2021
+Last edit date: 27th of January, 2021
