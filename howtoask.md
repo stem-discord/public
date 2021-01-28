@@ -11,7 +11,7 @@ _List of Help Channels_
   - [`#general-math-ω`](https://discord.com/channels/493173110799859713/536995777981972491)
   - [`#general-math-θ`](https://discord.com/channels/493173110799859713/641351235215294486)
   - [`#general-math-ϕ`](https://discord.com/channels/493173110799859713/641351291343208448)
-2. Advanced maths (see [faq](https://github.com/stem-discord/public/blob/main/faq.md) for more info on advanced maths) - *used for linear algebra, calc 3 and above*:
+2. Advanced maths (see [faq](https://github.com/stem-discord/public/blob/main/faq.md) for more info on advanced maths) - *used for linear algebra, multivariable calculus, and above*:
   - [`#advanced-math`](https://discord.com/channels/493173110799859713/641441793459748874)
   - [`#advanced-math-2`](https://discord.com/channels/493173110799859713/774406401534722068)
 3. Sciences - *used for biology, chemistry and physics of all levels*:
@@ -30,7 +30,7 @@ _List of Help Channels_
   
 **Post your question in the correct channel** from the above categories.
 ------
-2. **Describe your problem thoroughly**. Don't ask if a person can help you ([don't ask to ask](https://dontasktoask.com/)) - instead post a **detailed description of your problem** asking for guidance. If your question is simply "Can someone help me?", it will be ignored most of the time; none of the helpers will pay attention to a **short undetailed description of a problem**. A good, well-formulated question will not leave out any details and assist the helper by giving any previously aquired information or information you, yourself, have worked out.
+2. **Describe your problem thoroughly**. Rather than asking if a person can help you ([asking to ask](https://dontasktoask.com/)), post a **detailed description of your problem** asking for guidance. If your question is simply "Can someone help me?", it will be ignored most of the time; none of the helpers will pay attention to a **short, vague description of a problem**. A good, well-formulated question will not leave out any details and assist the helper by giving any previously acquired information or information you, yourself, have worked out.
 
 > You can post a picture of your problem if you want, but make sure it has good lighting and is oriented correctly. If the image contains multiple problems, specify which problem you need help with. See [here](https://sol.gfxile.net/dontask.html) for more guidance.
 ------
@@ -50,11 +50,11 @@ Roles available for pinging:
 `@Helper > CS`
 `@Helper > Engineering`
 
-**Please ping the helper roles in their corresponding channels only**
+**Please ping the helper roles in their corresponding channels only**.
 ------
 5. **Do not post in multiple channels**, patiently wait for someone to help you, and be respectful when they do: **All STEM helpers are volunteers**. If they're taking time out of their day to help you, the least you can do is be nice to them. When they have finished helping, be sure to drop them a thank - they've gone out of their way just to help you!
 ------
-**(Do not DM Helpers)**
+**(Do not DM Helpers.)**
 
 ## Examples of good questions
 
