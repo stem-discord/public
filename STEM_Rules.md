@@ -157,7 +157,7 @@ Punishment are otherwise FINAL; no complaints will be entertained. We aren't int
 
 ### **How to Get an Appeal**  
 
-If you are muted, there is a `#mute-chat` in this server for you to make your case. If you are banned, please reach out to a staff member indicating your intent to appeal. We will follow up.  
+If you are muted, there is a `#muted` in this server for you to open a ticket to make your case. If you are banned, please reach out to a staff member indicating your intent to appeal. We will follow up.  
 
 ### **During an Appeal**  
 
