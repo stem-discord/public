@@ -23,7 +23,8 @@
 
 We are an educational server and we therefore adopt a strict stance against misconduct in order to maintain a healthy learning environment. While we enjoy good-humoured jokes and some dank memes, we will not tolerate any media or behaviour that insults, threatens, or otherwise reasonably makes other users uncomfortable, or actions that disrupt the server organisation and administration. If you ever have any doubts over whether something is appropriate, feel free to contact any staff about it. Staff are anyone with the `@Moderator` or `@Administrator` role. 
 
-### **A. Good to Do**  
+<details> 
+<summary><h3 style="display:inline"><b>A. Good to Do</b></summary>
 These are rules that you should observe at all times. Repeated negligence may be punishable.  
 
 1. Respect all [Discord Terms of Service and Guidelines](https://discordapp.com/guidelines). This includes all the basics, including but not limited to: be respectful of one another, don't harass, don't spam, don't spam, don't post inappropriate or malicious content.  
@@ -42,8 +43,10 @@ These are rules that you should observe at all times. Repeated negligence may be
     </ol> 
 
 6. English must be the only language used to communicate in all channels, except those labelled 'other languages'.  
+</details>
 
-### **B. Toxic Behaviour**  
+<details>
+<summary><h3 style="display:inline"><b>B. Toxic Behaviour</b></h3></summary>
 "Toxic Behaviour" is the antithesis of respect. It is any behavior that, when exposed to others, threatens their mental health and well-being, usually by being unnaturally hostile and aggressive. "Harassment" is a type of toxic behaviour that targets specific people or groups of people, with the intent to badmouth, offend, provoke, intimidate, harm, or otherwise make them uncomfortable.  
 
 1. Toxic behaviour and especially harassment is forbidden in this server. Such actions include (but are not limited to) derogatory remarks, discriminatory (e.g racist, sexist, homophobic, ageist, or ableist) remarks, and hate speech. Toxic behaviour is highly variable in intensity, and may range anywhere from being acceptable after all (e.g. casual criticism), to getting banned straight away in extreme cases. We will do our best to review each case and mete out the most appropriate measure. See the [Punishment](#-punishment-) section below for our guidelines.  
@@ -51,8 +54,10 @@ These are rules that you should observe at all times. Repeated negligence may be
 2. If someone adopts such a toxic attitude towards you, be proactive and report that user to us and block them. Do not retaliate, or you may possibly be punished as well for aggravation of the situation.  
 
 3. In arguments, be civil and open-minded: understand that no one (including yourself) knows everything or interprets issues the same way. If the discussion devolves into immature shit-flinging, staff have the right to step in and demand cessation of the "debate".  
+</details>
 
-### **C. Spam**  
+<details>
+<summary><h3 style="display:inline"><b>C. Spam</b></h3></summary>  
 "Spam" is a loose category of actions, characterised by annoying other users by needlessly drawing attention, usually by creating notifications and/or taking up a lot of space. Naturally, spam is not allowed in this server. Some examples of spam are described below, though these may not be the only types.  
 
 1. Off-topic spam is the posting of a lot of messages or other media that add little to no value to the channel or ongoing conversation.
@@ -68,8 +73,10 @@ These are rules that you should observe at all times. Repeated negligence may be
 4. Soliciting is harrassing someone to get them to do something they otherwise wouldn't want to do, such as answering questions or visiting links.  
 
 5. Any sort of loud, disruptive sound in voice chat (e.g screaming, ear-rape, soundboard or playing music through your microphone) is prohibited.  
+</details>
 
-### **D. Inappropriate Content**  
+<details>
+<summary><h3 style="display:inline"><b>D. Inappropriate Content</b></h3></summary>  
 "Content" refers to all forms of media, including text, emojis, usernames/nicknames, statuses, profile pictures, images, links, etc.  
 
 1. Cursing is okay, unless it is excessive (spam) or directed at another user (harassment). SFW content is content that can be safely viewed at school or work without getting you in trouble. We strive to make all content SFW. Conversely, NSFW content is content that touches on sensitive/uncomfortable topics. This most commonly refers to, but is not limited to, pornography or violence.  
@@ -81,6 +88,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 4. In all cases, express promotion of hate, harm, and sociopathy is forbidden.  
 
 5. Malicious content is content that threatens a user's online (and possibly offline) privacy and security. e.g. Links to scams and phising websites. Viruses and malware. Such content is very serious and will likely result in an instant ban.    
+</details>
 
 > **Allowed cases:**  
 > Self promotion such as Instagram or Facebook ID, Discord server invite, or general affiliate links are all allowed in your Discord status. Political opinions are also allowed.
@@ -121,6 +129,9 @@ These are rules that you should observe at all times. Repeated negligence may be
 
 Infractions are judged by their level of severity, and punished accordingly. Severity is determined by how much malice the infraction expresses towards people and how much it disrupts the server system. Simply because an action isn't listed doesn't mean it won't be punished (staff may punish at their discretion); there are always creative people finding loopholes. Repeat offenders will be punished more harshly (punishment progression), but we will be understanding if the infractions are unrelated to each other. As a catch-all, staff may (rarely) deviate from these guidelines as the circumstances demand. Every case is unique, and we will do our best to review each case and mete out the most appropriate measure. If you are punished, `@STEM` will DM you the reason, and how long the punishment will last, in minutes.  
 
+<details>
+<summary><b>Severity</b></summary>
+
 **Low Severity:**  
 + One-off incidents that disrupt server order or may reasonably insult another user. e.g. One-off generic insults. 
 + Light spam.
@@ -147,6 +158,7 @@ Infractions are judged by their level of severity, and punished accordingly. Sev
 + Doxxing. Raiding. Hacking. Posting malicious content. Recruitment/oraganization of for such activities.
 + Punishment evasion.
 + Progression: 1-7 day mute (1440-10,080 mins), or permanent ban (per staff discretion).  
+</details>
 
 <br />
 
@@ -174,9 +186,24 @@ Highlight these things in your appeal:
 + Whether there was something we overlooked or misunderstood, that undermines the reason(s) for the punishment.
 + Whether you will cause more trouble if you come back in - typically refers to your character/attitude.  
 
-**DO:** Be civil and use clear English in your appeal, even though you may feel wronged. Staff may reject your appeal purely because they do not judge your attitude appropriate to expose to the rest of the server, or they simply cannot understand you. Understand the rules and respect their underlying purpose. We aim to create a healthy community for everyone. Our rules are a promise to the server to maintain that standard, and we won't bend the rules for someone who just wants to do whatever they like. Own up to / take responsibility for your own actions and their repercussions. If you don't understand the consequences, what's stopping you from doing it again?  Respect your fellow STEM members. We want to know if you will healthily re-integrate back into the server, instead of picking more fights.  
+<br />
 
-**DON'T:**  We will NOT ACCEPT these as responsible justifications and therefore valid reasons for appeal, even if they contributed:  
+<details>
+<summary><b>DO</b></summary> 
+
++ Be civil 
++ Use clear English in your appeal, even if you may feel wronged. (Staff may reject your appeal purely because they do not judge your attitude appropriate to expose to the rest of the server, or they simply cannot understand you.) 
++ Understand the rules and respect their underlying purpose. We aim to create a healthy community for everyone. Our rules are a promise to the server to maintain that standard, and we won't bend the rules for someone who just wants to do whatever they like. 
++ Own up to / take responsibility for your own actions and their repercussions. If you don't understand the consequences, what's stopping you from doing it again? 
++ Respect your fellow STEM members. We want to know if you will healthily re-integrate back into the server, instead of picking more fights.  
+</details>
+
+<br />
+
+<details>
+<summary><b>DON'T</b></summary>  
+
+We will NOT ACCEPT these as responsible justifications and therefore valid reasons for appeal, even if they contributed:  
 + Sociocultural differences. e.g. "What I did is normal (elsewhere)" / "The rules are ridiculous and should be changed" → Unadaptable to the local rules/culture.
 + Self-righteous  Humorous intent. e.g. "It's just a joke" → Irresponsibility
 + Mental/emotional state. e.g. "I was panicking because it was due soon" → Irresponsibility  
@@ -184,3 +211,4 @@ Highlight these things in your appeal:
 + Downplaying severity. e.g. "No one was harmed" → Inviting greater consequences to happen before you regret it. We already assigned a punishment appropriate for the severity.
 + Proof by assertion won't do you any favours. The following (non-exhaustive) list of behaviours during an appeal is grounds for immediate appeal denial or even punishment aggravation, at staff discretion: Verbal abuse, spam-pinging, or other contempt of staff.
 + Trolling or otherwise uncooperative behaviour.
+</details>
