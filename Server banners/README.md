@@ -1,3 +1,6 @@
+# Currently active banner
+[STEMbanner4.png](https://media.discordapp.net/attachments/622058199293362176/748330203029176471/stem_banner-2.png)
+
 # Server Banners (From the [Server Banner event](https://discord.com/channels/493173110799859713/597077606763855873/746891820184895528))
 
 | Banner  | Creator/Sent submission |
