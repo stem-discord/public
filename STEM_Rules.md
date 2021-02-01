@@ -24,7 +24,7 @@
 We are an educational server and we therefore adopt a strict stance against misconduct in order to maintain a healthy learning environment. While we enjoy good-humoured jokes and some dank memes, we will not tolerate any media or behaviour that insults, threatens, or otherwise reasonably makes other users uncomfortable, or actions that disrupt the server organisation and administration. If you ever have any doubts over whether something is appropriate, feel free to contact any staff about it. Staff are anyone with the `@Moderator` or `@Administrator` role. 
 
 <details> 
-<summary><h3 style="display:inline"><b>A. Good to Do</b></summary>
+<summary><b>A. Good to Do</b></summary>
 These are rules that you should observe at all times. Repeated negligence may be punishable.  
 
 1. Respect all [Discord Terms of Service and Guidelines](https://discordapp.com/guidelines). This includes all the basics, including but not limited to: be respectful of one another, don't harass, don't spam, don't spam, don't post inappropriate or malicious content.  
@@ -46,7 +46,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 </details>
 
 <details>
-<summary><h3 style="display:inline"><b>B. Toxic Behaviour</b></h3></summary>
+<summary><b>B. Toxic Behaviour</b></summary>
 "Toxic Behaviour" is the antithesis of respect. It is any behavior that, when exposed to others, threatens their mental health and well-being, usually by being unnaturally hostile and aggressive. "Harassment" is a type of toxic behaviour that targets specific people or groups of people, with the intent to badmouth, offend, provoke, intimidate, harm, or otherwise make them uncomfortable.  
 
 1. Toxic behaviour and especially harassment is forbidden in this server. Such actions include (but are not limited to) derogatory remarks, discriminatory (e.g racist, sexist, homophobic, ageist, or ableist) remarks, and hate speech. Toxic behaviour is highly variable in intensity, and may range anywhere from being acceptable after all (e.g. casual criticism), to getting banned straight away in extreme cases. We will do our best to review each case and mete out the most appropriate measure. See the [Punishment](#-punishment-) section below for our guidelines.  
@@ -57,7 +57,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 </details>
 
 <details>
-<summary><h3 style="display:inline"><b>C. Spam</b></h3></summary>  
+<summary><b>C. Spam</b></summary>  
 "Spam" is a loose category of actions, characterised by annoying other users by needlessly drawing attention, usually by creating notifications and/or taking up a lot of space. Naturally, spam is not allowed in this server. Some examples of spam are described below, though these may not be the only types.  
 
 1. Off-topic spam is the posting of a lot of messages or other media that add little to no value to the channel or ongoing conversation.
@@ -76,7 +76,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 </details>
 
 <details>
-<summary><h3 style="display:inline"><b>D. Inappropriate Content</b></h3></summary>  
+<summary><b>D. Inappropriate Content</b></summary>  
 "Content" refers to all forms of media, including text, emojis, usernames/nicknames, statuses, profile pictures, images, links, etc.  
 
 1. Cursing is okay, unless it is excessive (spam) or directed at another user (harassment). SFW content is content that can be safely viewed at school or work without getting you in trouble. We strive to make all content SFW. Conversely, NSFW content is content that touches on sensitive/uncomfortable topics. This most commonly refers to, but is not limited to, pornography or violence.  
@@ -174,7 +174,7 @@ Punishment are otherwise FINAL; no complaints will be entertained. We aren't int
 
 ### **How to Get an Appeal**  
 
-If you are muted, there is a `#muted` in this server for you to open a ticket to make your case. If you are banned, please reach out to a staff member indicating your intent to appeal. We will follow up.  
+If you are muted, there is a `#mute-chat` in this server for you to make your case. If you are banned, please reach out to a staff member indicating your intent to appeal. We will follow up.  
 
 ### **During an Appeal**  
 
