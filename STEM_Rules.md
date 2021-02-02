@@ -88,6 +88,8 @@ These are rules that you should observe at all times. Repeated negligence may be
 4. In all cases, express promotion of hate, harm, and sociopathy is forbidden.  
 
 5. Malicious content is content that threatens a user's online (and possibly offline) privacy and security. e.g. Links to scams and phising websites. Viruses and malware. Such content is very serious and will likely result in an instant ban.    
+
+6. Profile pictures, nicknames, and statuses must be appropriate and in good taste. (SFW, follows Discord's ToS). You will be punished depending on the severity of the violation of this rule and asked to change your profile picture/nickname/status to remove the punishment. If you refuse, you will be muted indefinitely with the possibility of a kick or ban. 
 </details>
 
 > **Allowed cases:**  
