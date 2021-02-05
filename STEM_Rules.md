@@ -2,14 +2,14 @@
 
 ## **TABLE OF CONTENTS**  
 
-+ [**CODE OF CONDUCT**](#-code-of-conduct-)
++ [**CODE OF CONDUCT**](#code-of-conduct)
     + [**A.** Good to Do](#a-good-to-do)
     + [**B.** Toxic Behaviour](#b-toxic-behaviour)
     + [**C.** Spam](#c-spam)
     + [**D.** Inappropriate Content](#d-inappropriate-content)
-+ [**REPORTING**](#-reporting-)
-+ [**PUNISHMENT**](#-punishment-)
-+ [**APPEALS**](#-appeals-)
++ [**REPORTING**](#reporting)
++ [**PUNISHMENT**](#punishment)
++ [**APPEALS**](#appeals)
 
 <br />
 
