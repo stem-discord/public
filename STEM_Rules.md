@@ -1,6 +1,6 @@
 # **STEM Helpers and Students (SCIENCE, TECHNOLOGY, ENGINEERING & MATHS)**
 
-## |== **TABLE OF CONTENTS** ==|  
+## **TABLE OF CONTENTS**  
 
 + [**CODE OF CONDUCT**](#-code-of-conduct-)
     + [**A.** Good to Do](#a-good-to-do)
@@ -19,7 +19,7 @@
 
 <br />
 
-## |== **CODE OF CONDUCT** ==|  
+## **CODE OF CONDUCT**  
 
 We are an educational server and we therefore adopt a strict stance against misconduct in order to maintain a healthy learning environment. While we enjoy good-humoured jokes and some dank memes, we will not tolerate any media or behaviour that insults, threatens, or otherwise reasonably makes other users uncomfortable, or actions that disrupt the server organisation and administration. If you ever have any doubts over whether something is appropriate, feel free to contact any staff about it. Staff are anyone with the `@Moderator` or `@Administrator` role. 
 
@@ -99,7 +99,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 
 <br />
 
-## |== **REPORTING** ==|  
+## **REPORTING**  
 
 ### **What to Report**  
 + Anything that makes you uncomfortable or which you suspect is a rule break, and you want a staff to review and/or take action against it.
@@ -125,7 +125,7 @@ These are rules that you should observe at all times. Repeated negligence may be
   
 <br />
 
-## |== **PUNISHMENT** ==|  
+## **PUNISHMENT**  
 
 Infractions are judged by their level of severity, and punished accordingly. Severity is determined by how much malice the infraction expresses towards people and how much it disrupts the server system. Simply because an action isn't listed doesn't mean it won't be punished (staff may punish at their discretion); there are always creative people finding loopholes. Repeat offenders will be punished more harshly (punishment progression), but we will be understanding if the infractions are unrelated to each other. As a catch-all, staff may (rarely) deviate from these guidelines as the circumstances demand. Every case is unique, and we will do our best to review each case and mete out the most appropriate measure. If you are punished, `@STEM` will DM you the reason, and how long the punishment will last, in minutes.  
 
@@ -166,7 +166,7 @@ Infractions are judged by their level of severity, and punished accordingly. Sev
 
 <br />
 
-## |== **APPEALS** ==|  
+## **APPEALS**  
 
 The appeal system is for those who feel they have been wrongly or disproportionately punished. It lets you defend your side and argue for a lesser punishment, or even void the punishment altogether. As a guideline, you should appeal only if you think the staff made a mistake regarding the situation or rules, or if what you did was accidental and you're fully repentant. Note the [How to Appeal Successfully](#how-to-appeal-successfully) section below. Each infraction may be appealed ONCE.  
 
