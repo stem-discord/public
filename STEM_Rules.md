@@ -202,7 +202,7 @@ Highlight these things in your appeal:
 
 <details>
 <summary><b>DON'T</b></summary>  
-
+dfadsfdsafesafedasfdsafdawsf
 We will NOT ACCEPT these as responsible justifications and therefore valid reasons for appeal, even if they contributed:  
 + Sociocultural differences. e.g. "What I did is normal (elsewhere)" / "The rules are ridiculous and should be changed" → Unadaptable to the local rules/culture.
 + Self-righteous  Humorous intent. e.g. "It's just a joke" → Irresponsibility
