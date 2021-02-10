@@ -16,3 +16,5 @@ just follow the format everyone else is doing
 > `689148779948933181` [Mr. Klurp#4242](https://github.com/Mr-Klurp)
 
 > `763966215261126676` [arshsverma#1289](https://github.com/arshsverma)
+
+> `231555206553403393` [Lucy#1234](https://github.com/noneuclideanmotion)
