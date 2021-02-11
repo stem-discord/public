@@ -18,3 +18,5 @@ just follow the format everyone else is doing
 > `763966215261126676` [arshsverma#1289](https://github.com/arshsverma)
 
 > `231555206553403393` [Lucy#1234](https://github.com/noneuclideanmotion)
+
+> `692739374768455691` [post#8897](https://github.com/postrequest69)
