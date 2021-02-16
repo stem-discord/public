@@ -51,7 +51,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 
 1. Toxic behaviour and especially harassment is forbidden in this server. Such actions include (but are not limited to) derogatory remarks, discriminatory (e.g racist, sexist, homophobic, ageist, or ableist) remarks, and hate speech. Toxic behaviour is highly variable in intensity, and may range anywhere from being acceptable after all (e.g. casual criticism), to getting banned straight away in extreme cases. We will do our best to review each case and mete out the most appropriate measure. See the [Punishment](#-punishment-) section below for our guidelines.  
 
-2. If someone adopts such a toxic attitude towards you, be proactive and report that user to us and block them. Do not retaliate, or you may possibly be punished as well for aggravation of the situation.  
+2. If someone adopts a toxic behavior, be proactive and report that user to us and block them. Do not retaliate, or you may possibly be punished as well for aggravation of the situation.  
 
 3. In arguments, be civil and open-minded: understand that no one (including yourself) knows everything or interprets issues the same way. If the discussion devolves into immature shit-flinging, staff have the right to step in and demand cessation of the "debate".  
 </details>
