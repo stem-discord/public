@@ -25,7 +25,9 @@ We are an educational server and we therefore adopt a strict stance against misc
 
 <details> 
 <summary><b>A. Good to Do</b></summary>
-These are rules that you should observe at all times. Repeated negligence may be punishable.  
+These are rules that you should observe at all times. Repeated negligence may be punishable.
+
+> Some rule breakers will be banned instantly. This takes into account for account age in server, message count, and obvious trollish behaviors.
 
 1. Respect all [Discord Terms of Service and Guidelines](https://discordapp.com/guidelines). This includes all the basics, including but not limited to: be respectful of one another, don't harass, don't spam, don't spam, don't post inappropriate or malicious content.  
 
