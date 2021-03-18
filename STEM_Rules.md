@@ -29,7 +29,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 
 > Some rule breakers will be banned instantly. This takes into account for account age in server, message count, and obvious trollish behaviors.
 
-1. Respect all [Discord Terms of Service and Guidelines](https://discordapp.com/guidelines). This includes all the basics, including but not limited to: be respectful of one another, don't harass, don't spam, don't spam, don't post inappropriate or malicious content.  
+1. Respect all [Discord Terms of Service and Guidelines](https://discordapp.com/guidelines). This includes all the basics, including but not limited to: be respectful of one another, don't harass, don't spam, don't post inappropriate or malicious content.  
 
 2. Respect all lawful staff instructions and decisions. DO NOT try and pick a fight with staff (at least in public), no matter how wrong you think they may be. Our first priority is to resolve the immediate issue and restore server order, and we cannot do that if there are people openly arguing and disobeying us. We can address further concerns once the issue is settled. If you suspect a staff member is acting out of line, you may report them (see the [Reporting](#-reporting-) section below). We are only human, so we seek your understanding. Harassment and abuse of staff will not be tolerated.  
 
