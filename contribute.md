@@ -13,7 +13,7 @@ just follow the format everyone else is doing
 
 > `760225250716680283` [Slurp#8160](https://github.com/Shlurp)
 
-> `689148779948933181` [Mr. Klurp#4242](https://github.com/Mr-Klurp)
+> `689148779948933181` [Sarks#9256](https://github.com/Sir-Sarks)
 
 > `763966215261126676` [arshsverma#1289](https://github.com/arshsverma)
 
