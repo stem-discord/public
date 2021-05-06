@@ -143,15 +143,15 @@ Infractions are judged by their level of severity, and punished accordingly. Sev
 + **Progression: Verbal or official warn → Medium Severity**  
 
 **Medium Severity:**  
-+ Deliberate malice towards another user or the server. (e.g Aggressive and toxic behaviour towards other users over several messages.)
-+ Encouraging suicide or violence.
-+ Hate speech and discriminatory insults.
 + Multiple spam messages.
-+ Posting questionable content outside of NSFW channels.
++ Posting questionable content.
 + Ignoring/defying lawful staff instructions.
 + **Progresssion: 1 hour mute (60 mins)**  
 
 **High Severity:**  
++ Hate speech and discriminatory insults.
++ Encouraging suicide or violence.
++ Deliberate malice towards another user or the server. (e.g Aggressive and toxic behaviour towards other users over several messages.)
 + Discord ToS/Guidelines violations.
 + A concerted effort to harm one or multiple users or the server as a whole, especially if it results in consequences.  
 + Underground activities. (e.g. Intense harassment or threatening, especially with discriminatory elements.)
