@@ -51,7 +51,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 <summary><b>B. Toxic Behaviour</b></summary>
 "Toxic Behaviour" is the antithesis of respect. It is any behavior that, when exposed to others, threatens their mental health and well-being, usually by being unnaturally hostile and aggressive. "Harassment" is a type of toxic behaviour that targets specific people or groups of people, with the intent to badmouth, offend, provoke, intimidate, harm, or otherwise make them uncomfortable.  
 
-1. Toxic behaviour and especially harassment is forbidden in this server. Such actions include (but are not limited to) derogatory remarks, discriminatory (e.g racist, sexist, homophobic, ageist, or ableist) remarks, and hate speech. Toxic behaviour is highly variable in intensity, and may range anywhere from being acceptable after all (e.g. casual criticism), to getting banned straight away in extreme cases. We will do our best to review each case and mete out the most appropriate measure. See the [Punishment](#-punishment-) section below for our guidelines.  
+1. Toxic behaviour and especially harassment is forbidden in this server. Such actions include (but are not limited to) derogatory remarks, discriminatory (e.g racist, sexist, homophobic, ageist, or ableist) remarks, and hate speech. 
 
 2. If someone adopts a toxic behavior, be proactive and report that user to us and block them. Do not retaliate, or you may possibly be punished as well for aggravation of the situation.  
 
@@ -87,7 +87,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 
 3. Explicit content deals with NSFW topics and has direct and/or graphic terms, descriptions, and/or imagery, and may be described as disgusting or disturbing. Such content is NOT ALLOWED IN THE SERVER AT ALL. You will likely get instantly-banned, no excuses.  
 
-4. In all cases, express promotion of hate, harm, and sociopathy is forbidden.  
+4. In all cases, promotion of hate, harm, and sociopathy is forbidden.  
 
 5. Malicious content is content that threatens a user's online (and possibly offline) privacy and security. e.g. Links to scams and phising websites. Viruses and malware. Such content is very serious and will likely result in an instant ban.    
 </details>
