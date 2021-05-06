@@ -81,11 +81,11 @@ These are rules that you should observe at all times. Repeated negligence may be
 <summary><b>D. Inappropriate Content</b></summary>  
 "Content" refers to all forms of media, including text, emojis, usernames/nicknames, statuses, profile pictures, images, links, etc.  
 
-1. Cursing is okay, unless it is excessive (spam) or directed at another user (harassment). SFW content is content that can be safely viewed at school or work without getting you in trouble. We strive to make all content SFW. Conversely, NSFW content is content that touches on sensitive/uncomfortable topics. This most commonly refers to, but is not limited to, pornography or violence.  
+1. SFW content is content that can be safely viewed at school or work without getting you in trouble. We strive to make all content SFW. Conversely, NSFW content is content that touches on sensitive/uncomfortable topics. This most commonly refers to, but is not limited to, pornography or violence.  
 
-2. Questionable content is content where the topic is clearly NSFW or approaches NSFW territory, but nothing explicit is shown/written. Alternatively, it may be explicit if it is for medical purposes. Such content is allowed in NSFW channels, but NOT ALLOWED in SFW channels.  
+2. Questionable content is content where the topic is clearly NSFW or approaches NSFW territory, but nothing explicit is shown/written.
 
-3. Explicit content deals with NSFW topics and has direct and/or graphic terms, descriptions, and/or imagery, and may be described as disgusting or disturbing. Such content is NOT ALLOWED IN THE SERVER AT ALL, NOT EVEN IN the NSFW channels. You will likely get instantly-banned, no excuses.  
+3. Explicit content deals with NSFW topics and has direct and/or graphic terms, descriptions, and/or imagery, and may be described as disgusting or disturbing. Such content is NOT ALLOWED IN THE SERVER AT ALL. You will likely get instantly-banned, no excuses.  
 
 4. In all cases, express promotion of hate, harm, and sociopathy is forbidden.  
 
