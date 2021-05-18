@@ -24,5 +24,5 @@ just follow the format everyone else is doing
 > `637908873826795551` [Thermodaddynamics#0246](https://github.com/Peacemaker47)
 
 > `733250395949760512` [leadersheir#9620](https://github.com/leadersheir)
-> 
-`787351824054353931`   [hriday#0922](https://github.com/HridayAg0102)
+
+> `787351824054353931` [hriday#0922](https://github.com/HridayAg0102)
