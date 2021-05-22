@@ -1,8 +1,17 @@
-# How to get access to the #development channel
-make a pr with your name under this line with your discord id and tag
-just follow the format everyone else is doing
+# How to access the `#development` channel
+To access the `#development` channel, add a line with the following format to this file:
 
-# line
+```
+> `Discord uesr ID` [Discord username and tag](Link to GitHub profile)
+```
+
+e.g.
+
+```
+> `736917954209251419` [Nemesis#2248](https://github.com/stem-discord)
+```
+
+# Contributors
 > `341446613056880641` [nope#7777](https://github.com/nopeless)
 
 > `444724485594152960` [gnawydna#1234](https://github.com/gnawydna)
