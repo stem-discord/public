@@ -51,7 +51,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 <summary><b>B. Toxic Behaviour</b></summary>
 "Toxic Behaviour" is the antithesis of respect. It is any behavior that, when exposed to others, threatens their mental health and well-being, usually by being unnaturally hostile and aggressive. "Harassment" is a type of toxic behaviour that targets specific people or groups of people, with the intent to badmouth, offend, provoke, intimidate, harm, or otherwise make them uncomfortable.  
 
-1. Toxic behaviour and especially harassment is forbidden in this server. Such actions include (but are not limited to) derogatory remarks, discriminatory (e.g racist, sexist, homophobic, ageist, or ableist) remarks, and hate speech. 
+1. Toxic behaviour and especially harassment is forbidden in this server. Such actions include (but are not limited to) derogatory remarks, discriminatory (e.g racist, sexist, homophobic, ageist, or ableist) remarks, and hate speech. Toxic behaviour is highly variable in intensity, and may range anywhere from being acceptable after all (e.g. casual criticism), to getting banned straight away in extreme cases. We will do our best to review each case and mete out the most appropriate measure. See the [Punishment](#-punishment-) section below for our guidelines.  
 
 2. If someone adopts a toxic behavior, be proactive and report that user to us and block them. Do not retaliate, or you may possibly be punished as well for aggravation of the situation.  
 
@@ -81,19 +81,19 @@ These are rules that you should observe at all times. Repeated negligence may be
 <summary><b>D. Inappropriate Content</b></summary>  
 "Content" refers to all forms of media, including text, emojis, usernames/nicknames, statuses, profile pictures, images, links, etc.  
 
-1. SFW content is content that can be safely viewed at school or work without getting you in trouble. We strive to make all content SFW. Conversely, NSFW content is content that touches on sensitive/uncomfortable topics. This most commonly refers to, but is not limited to, pornography or violence.  
+1. Cursing is okay, unless it is excessive (spam) or directed at another user (harassment). SFW content is content that can be safely viewed at school or work without getting you in trouble. We strive to make all content SFW. Conversely, NSFW content is content that touches on sensitive/uncomfortable topics. This most commonly refers to, but is not limited to, pornography or violence.  
 
-2. Questionable content is content where the topic is clearly NSFW or approaches NSFW territory, but nothing explicit is shown/written.
+2. Questionable content is content where the topic is clearly NSFW or approaches NSFW territory, but nothing explicit is shown/written. Alternatively, it may be explicit if it is for medical purposes. Such content is allowed in NSFW channels, but NOT ALLOWED in SFW channels.  
 
-3. Explicit content deals with NSFW topics and has direct and/or graphic terms, descriptions, and/or imagery, and may be described as disgusting or disturbing. Such content is NOT ALLOWED IN THE SERVER AT ALL. You will likely get instantly-banned, no excuses.  
+3. Explicit content deals with NSFW topics and has direct and/or graphic terms, descriptions, and/or imagery, and may be described as disgusting or disturbing. Such content is NOT ALLOWED IN THE SERVER AT ALL, NOT EVEN IN the NSFW channels. You will likely get instantly-banned, no excuses.  
 
-4. In all cases, promotion of hate, harm, and sociopathy is forbidden.  
+4. In all cases, express promotion of hate, harm, and sociopathy is forbidden.  
 
 5. Malicious content is content that threatens a user's online (and possibly offline) privacy and security. e.g. Links to scams and phising websites. Viruses and malware. Such content is very serious and will likely result in an instant ban.    
 </details>
 
 > **Allowed cases:**  
-> Self promotion such as Instagram or Facebook ID, Discord server invite, or general affiliate links are all allowed in your Discord status.
+> Self promotion such as Instagram or Facebook ID, Discord server invite, or general affiliate links are all allowed in your Discord status. Political opinions are also allowed.
 
 <br />
 
@@ -143,15 +143,15 @@ Infractions are judged by their level of severity, and punished accordingly. Sev
 + **Progression: Verbal or official warn → Medium Severity**  
 
 **Medium Severity:**  
++ Deliberate malice towards another user or the server. (e.g Aggressive and toxic behaviour towards other users over several messages.)
++ Encouraging suicide or violence.
++ Hate speech and discriminatory insults.
 + Multiple spam messages.
-+ Posting questionable content.
++ Posting questionable content outside of NSFW channels.
 + Ignoring/defying lawful staff instructions.
 + **Progresssion: 1 hour mute (60 mins)**  
 
 **High Severity:**  
-+ Hate speech and discriminatory insults.
-+ Encouraging suicide or violence.
-+ Deliberate malice towards another user or the server. (e.g Aggressive and toxic behaviour towards other users over several messages.)
 + Discord ToS/Guidelines violations.
 + A concerted effort to harm one or multiple users or the server as a whole, especially if it results in consequences.  
 + Underground activities. (e.g. Intense harassment or threatening, especially with discriminatory elements.)
