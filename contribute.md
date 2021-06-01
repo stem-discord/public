@@ -26,3 +26,5 @@ just follow the format everyone else is doing
 > `733250395949760512` [leadersheir#9620](https://github.com/leadersheir)
 
 > `787351824054353931` [hriday#0922](https://github.com/HridayAg0102)
+
+> `275322364173221890` [𝅳𝅳#9095](https://github.com/person-with-a-username)
