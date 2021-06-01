@@ -2,7 +2,7 @@
 To access the `#development` channel, add a line with the following format to this file:
 
 ```
-> `Discord uesr ID` [Discord username and tag](Link to GitHub profile)
+> `Discord user ID` [Discord username and tag](Link to GitHub profile)
 ```
 
 e.g.
