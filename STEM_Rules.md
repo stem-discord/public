@@ -70,7 +70,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 
 2. Direct-message (DM) spam is the unwanted private-messaging of other users, especially regarding advertising or soliciting. Do not DM users without their permission.   
 
-3. Advertising is posting a link to a server or website with the intention of getting more exposure for that server or website. If you want to advertise something, propose it to us, and we will review it and give it the right exposure. Otherwise, it will be treated as spam.   
+3. Advertising is posting a link to another server or website with the intention of getting more exposure for that server or website. This includes any kind of affiliate links. If you want to advertise something, propose it to us, and we will review it and give it the right exposure. Otherwise, it will be treated as spam.   
 
 4. Soliciting is harrassing someone to get them to do something they otherwise wouldn't want to do, such as answering questions or visiting links.  
 
