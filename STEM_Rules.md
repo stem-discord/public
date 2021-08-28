@@ -10,6 +10,7 @@
 + [**REPORTING**](#reporting)
 + [**PUNISHMENT**](#punishment)
 + [**APPEALS**](#appeals)
++ [**MISC**](#misc)
 
 <br />
 
@@ -214,3 +215,7 @@ We will NOT ACCEPT these as responsible justifications and therefore valid reaso
 + Proof by assertion won't do you any favours. The following (non-exhaustive) list of behaviours during an appeal is grounds for immediate appeal denial or even punishment aggravation, at staff discretion: Verbal abuse, spam-pinging, or other contempt of staff.
 + Trolling or otherwise uncooperative behaviour.
 </details>
+
+# MISC
+
+The venting channel shall be primarily for venting academic frustration or anything that can be handled within a student community. Once you acknowledge this rule, you must contact a mod if you see a suicidal person.
