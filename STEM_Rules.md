@@ -229,6 +229,7 @@ The venting channel shall be primarily for venting academic frustration or anyth
 + Provide only academic help since we are an academic server. For individuals with chronic/acute depression, the crisis helplines are available.
   <details>
   <summary><b>Suicide/Crisis Hotlines</b></summary>  
+
     + Australia: 1300 659 467
     + Canada: 1833 456 4566
     + China( Beijing suicide research and prevention centre): 800 810 1117
