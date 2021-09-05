@@ -218,4 +218,22 @@ We will NOT ACCEPT these as responsible justifications and therefore valid reaso
 
 # MISC
 
+## Venting Channel
+
 The venting channel shall be primarily for venting academic frustration or anything that can be handled within a student community. Once you acknowledge this rule, you must contact a mod if you see a suicidal person.
+
+<details>
+<summary><b>Extra Rules</b></summary>  
+
++ If something goes out of hand, please contact a mod first.
++ Provide only academic help since we are an academic server. For individuals with chronic/acute depression, the crisis helplines are available.
+  <details>
+  <summary><b>Suicide/Crisis Hotlines</b></summary>  
+
+  + Ad amet ipsum est aliqua qui amet deserunt velit duis pariatur 
+  + nulla do ipsum. Dolor duis Lorem cillum pariatur. Sit culpa dolor 
+  + eiusmod laboris ea laboris in proident ad. Sint consequat ipsum adipisicing nisi dolor. 
+  + Incididunt exercitation tempor duis tempor. Aliqua magna Lorem aliqua consectetur labore aliqua commodo ullamco dolore cupidatat consequat labore. Non esse anim deserunt mollit cupidatat nulla.
+
+  </details>
+</details>
