@@ -229,11 +229,15 @@ The venting channel shall be primarily for venting academic frustration or anyth
 + Provide only academic help since we are an academic server. For individuals with chronic/acute depression, the crisis helplines are available.
   <details>
   <summary><b>Suicide/Crisis Hotlines</b></summary>  
-
-  + Ad amet ipsum est aliqua qui amet deserunt velit duis pariatur 
-  + nulla do ipsum. Dolor duis Lorem cillum pariatur. Sit culpa dolor 
-  + eiusmod laboris ea laboris in proident ad. Sint consequat ipsum adipisicing nisi dolor. 
-  + Incididunt exercitation tempor duis tempor. Aliqua magna Lorem aliqua consectetur labore aliqua commodo ullamco dolore cupidatat consequat labore. Non esse anim deserunt mollit cupidatat nulla.
-
+    + Australia: 1300 659 467
+    + Canada: 1833 456 4566
+    + China( Beijing suicide research and prevention centre): 800 810 1117
+    + France: 0145 394 000
+    + Germany: 0800 181 0771
+    + India: 9152 987 821
+    + Russia: (495) 625 3101
+    + United Kingdom: 0800 689 5652
+    + United States: 1-800 273 8255
+    + Argentina: 5275 1135
   </details>
 </details>
