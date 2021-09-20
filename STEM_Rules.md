@@ -10,6 +10,7 @@
 + [**REPORTING**](#reporting)
 + [**PUNISHMENT**](#punishment)
 + [**APPEALS**](#appeals)
++ [**MISC**](#misc)
 
 <br />
 
@@ -213,4 +214,31 @@ We will NOT ACCEPT these as responsible justifications and therefore valid reaso
 + Downplaying severity. e.g. "No one was harmed" → Inviting greater consequences to happen before you regret it. We already assigned a punishment appropriate for the severity.
 + Proof by assertion won't do you any favours. The following (non-exhaustive) list of behaviours during an appeal is grounds for immediate appeal denial or even punishment aggravation, at staff discretion: Verbal abuse, spam-pinging, or other contempt of staff.
 + Trolling or otherwise uncooperative behaviour.
+</details>
+
+# MISC
+
+## Venting Channel
+
+The venting channel shall be primarily for venting academic frustration or anything that can be handled within a student community. Once you acknowledge this rule, you must contact a mod if you see a suicidal person.
+
+<details>
+<summary><b>Extra Rules</b></summary>  
+
++ If something goes out of hand, please contact a mod first.
++ Provide only academic help since we are an academic server. For individuals with chronic/acute depression, the crisis helplines are available.
+  <details>
+  <summary><b>Suicide/Crisis Hotlines</b></summary>  
+
+    + Australia: 1300 659 467
+    + Canada: 1833 456 4566
+    + China( Beijing suicide research and prevention centre): 800 810 1117
+    + France: 0145 394 000
+    + Germany: 0800 181 0771
+    + India: 9152 987 821
+    + Russia: (495) 625 3101
+    + United Kingdom: 0800 689 5652
+    + United States: 1-800 273 8255
+    + Argentina: 5275 1135
+  </details>
 </details>
