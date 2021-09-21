@@ -28,11 +28,12 @@ Is collected via web or discord bot submission, analyzed for password vulnerabil
 
 * Discord/Server Join date. `(C,P) viewed Public`
 * Name/Nickname. `(C,A) viewed Public`
-* Every message sent in channels without an explicit mention of privacy. `(C,A,T) viewed Private`
-* Every message with the possibility of the context of "Thanks". `(C,A,P) viewed Public`
-* Every media included in messages that are subject to logging. `(C,A,P) viewed Private`
-* Direct messages sent to our Services (namely, Nemesis). `(C,P) viewed Private`
-* Reactions. `(C,A,P) viewed Public`
+* Every message content sent in channels without an explicit mention of privacy. `(C,A,T) viewed Private, stored in a Discord channel`
+* Every media included in messages that are subject to logging. `(C,A,P) viewed Private, , stored in a Discord channel`
+* Direct messages sent to our Services (namely, Nemesis). `(C,P) viewed Private, stored in a Discord channel`
+* Reactions by Nemesis. `(C,A,P) viewed Public, stored in a Discord channel`
+* Reactions by Emoji Statistics (see third party). `(C,A,P) viewed Public`
+* The timestamp and mention of every message with the possibility of the context of "Thanks". `(C,A,P) viewed Public`
 * User performance. `(A) viewed Public`
 * Infractions (mutes, bans). `(A,P) viewed private`
 * Ban appeal. `(C,A,P) viewed Private`
