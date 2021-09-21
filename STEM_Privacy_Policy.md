@@ -73,6 +73,10 @@ We use the following cookies
   - When issuing a command `eliza define` or equivalent, arguments are passed. `(C,A) viewed Public`
 * https://translate.googleapis.com/
   - When issuing a command `eliza tl` or equivalent, arguments are passed. `(C,A) viewed Public`
+* Emoji Statistics
+  - When you send a message with an emoji, Discord bot with id 713016704648872000 will log the type of emoji and the timestamp. `(C,A,P) viewed public`
+* Dyno
+  - Logs various statistics. Please refer to [Dyno's Privacy Policy](https://dyno.gg)
 
 ## II. Use of Information
 
