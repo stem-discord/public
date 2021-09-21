@@ -37,3 +37,5 @@ e.g.
 > `787351824054353931` [hriday#0922](https://github.com/HridayAg0102)
 
 > `275322364173221890` [𝅳𝅳#9095](https://github.com/person-with-a-username)
+
+> `263493792399753217` [iamthewallrus#2370](https://github.com/iamthewallrus)
