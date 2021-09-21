@@ -26,7 +26,7 @@ Is collected via web or discord bot submission, analyzed for password vulnerabil
 
 > Disclaimer: Our services are provided as a proxy of Discord Inc. Our Privacy Policy follows that of Discord Inc. [Discord Inc.'s Privacy Policy](https://discord.com/privacy). Implications of this restriction can be explicitly mentioned while others are restrictions remained implied.
 
-* Discord/Server Join date. `(C,P) viewed Public`
+* Discord/Server Join date by Nemesis and STEM Shield. `(C,A,P) viewed Public`
 * Name/Nickname. `(C,A) viewed Public`
 * Every message content sent in channels without an explicit mention of privacy. `(C,A,T) viewed Private, stored in a Discord channel`
 * Every media included in messages that are subject to logging. `(C,A,P) viewed Private, , stored in a Discord channel`
