@@ -94,7 +94,7 @@ These are rules that you should observe at all times. Repeated negligence may be
 </details>
 
 > **Allowed cases:**  
-> Self promotion such as Instagram or Facebook ID, Discord server invite, or general affiliate links are all allowed in your Discord status. Political opinions are also allowed.
+> Self promotion such as Instagram or Facebook ID, Discord server invite, general affiliate links, and non-extremist political opinions are all allowed in your Discord status, about me, and profile picture.
 
 <br />
 
