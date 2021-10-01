@@ -71,3 +71,7 @@ The remaining three are given to members with atleast a weekly thank count of:
 ❯ `@Top Helper β`: 25% of the weekly top helper count
 
 ❯ `@Top Helper α`: 70% of the weekly top helper count
+
+The `Top Helper (Subject)` Roles are distributed if you have 50% of the top helper count in that respective subject!
+
+(Members with `@Top Helper ∞` and `@Top Helper Ω` can change the color of their role with !hex [hex code])
