@@ -6,7 +6,7 @@
 - Every media will be shallow copied upon sending on public channels - only viewable by staff members.
 - Messages (DMs) to the STEM bot will be forwarded to a channel - only viewable by staff members.
 - Reaction additions and removals are logged by a bot - only viewable by staff members.
-- Staff members reserve the right to mute/kick/ban members if it goes against the server rules.
+- Staff members reserve the right to restrict the access of a member if they violate the server rules.
 
 ---
 
