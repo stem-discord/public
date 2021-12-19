@@ -17,7 +17,7 @@ Winners: 3
 
 # Christmas tree building competition
 
-link: (stem.help/event)[https://stem.help/event]
+link: [stem.help/event](https://stem.help/event)
 
 ## Restrictions
 
