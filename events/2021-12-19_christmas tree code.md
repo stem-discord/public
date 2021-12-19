@@ -21,7 +21,7 @@ link: [stem.help/event](https://stem.help/event)
 
 ## Restrictions
 
-* 2000 char source code, 2000 char output
+* 2000 char source code, 4000 char output, 100 line limit output
 
 * Must run in a reasonable amount of time.
 
