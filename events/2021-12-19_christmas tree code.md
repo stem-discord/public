@@ -6,6 +6,10 @@
 ## Event and site planning
 ##### Dec 19th, 2021 ~ Dec 30th, 2021
 
+Prize pool: $40
+
+Winners: 3
+
 ## Core contributors
 
 @nopeless, dagger
