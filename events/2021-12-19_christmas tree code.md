@@ -15,6 +15,12 @@
 
 link: (stem.help/event)[https://stem.help/event]
 
+## Restrictions
+
+* 2000 char source code, 2000 char output
+
+* Must run in a reasonable amount of time.
+
 ## Vote criteria
 
 The tree quality: the prettier the tree, the better it is
