@@ -25,6 +25,9 @@ link: [stem.help/event](https://stem.help/event)
 
 * Must run in a reasonable amount of time.
 
+> Note: due to a complaint that it cannot a. import external modules b. download files from the internet c. submit file inputs, I decided to allow special cases. 
+> If you want your code to be submitted without running on the piston server, contact @nopeless in Discord and I will submit your file on the db manually.
+
 ## Vote criteria
 
 The tree quality: the prettier the tree, the better it is
