@@ -36,6 +36,8 @@ The tree quality: the prettier the tree, the better it is
 
 * If the code literally prints the entire tree (no functions, no loops) then its a bad tree
 
+> vote score is calculated via upvotes - downvotes
+
 ---
 
 ## There are two periods
