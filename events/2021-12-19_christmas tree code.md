@@ -88,3 +88,32 @@ From Dec 25th to Dec 30th, people can start voting
 * They will recieve an Event winner role
 
 </details>
+
+# Results
+
+## Christmas-event-count
+
+Vote Count for the Christmas event in Stem.help (counted Dec 30th, 10pm)
+
+
+| Name  | Votes |
+|:------|------:|
+| Nope#6924 | 3 |
+| Alex Rosca#2423 | 2 |
+| Donut#2129  | 1 |
+| kxcci#2232  | 1 |
+| Tix3Dev#0369  | 1 |
+| MadeInHell#7765 | 1 |
+| Manjot1151#8472 | 1 |
+| Axhraf#2871 | 0 |
+| AdamR#8213  | -1  |
+| sawyer#1020 | -2  |
+| cyp#1592  | -3  |
+| doublevcodes#5496 | -3  |
+| arshsverma#5903 | -6  |
+| Roundstarling20#7939  | -9  |
+| Sid#2354  | -9  |
+| Branerican#6360 | -10 |
+| Dagger#8243 | -10 |
+| olanui#1438 | -11 |
+
