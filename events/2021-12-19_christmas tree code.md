@@ -100,11 +100,11 @@ Vote Count for the Christmas event in Stem.help (counted Dec 30th, 10pm)
 |:------|------:|
 | Nope#6924 | 3 |
 | Alex Rosca#2423 | 2 |
-| Donut#2129  | 1 |
-| kxcci#2232  | 1 |
 | Tix3Dev#0369  | 1 |
 | MadeInHell#7765 | 1 |
 | Manjot1151#8472 | 1 |
+| Donut#2129  | 1 |
+| kxcci#2232  | 1 |
 | Axhraf#2871 | 0 |
 | AdamR#8213  | -1  |
 | sawyer#1020 | -2  |
