@@ -117,3 +117,5 @@ Vote Count for the Christmas event in Stem.help (counted Dec 30th, 10pm)
 | Dagger#8243 | -10 |
 | olanui#1438 | -11 |
 
+> We will allow additional votes to be casted. 
+> Here is a snapshot of the website by the time the vote was counted https://cdn.discordapp.com/attachments/799954350477672458/926430005163089920/event.htm
