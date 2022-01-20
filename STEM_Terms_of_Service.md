@@ -8,6 +8,10 @@
 - Reaction additions and removals are logged by a bot - only viewable by staff members.
 - Staff members reserve the right to mute/kick/ban members if it goes against the server rules.
 
+# Moderation
+
+Due to the human nature of our moderation system, there can be inconsistencies between punishments. While we are more than welcome to be pointed out for our mistakes, we cannot guarantee our future consistency.
+
 ---
 
-Last edit date: 7th of May, 2021
+Last edit date: 20th of Jan, 2022
