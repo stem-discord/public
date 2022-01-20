@@ -8,28 +8,30 @@ The list implicitly includes all variations to circumvent the filter ex) jazz ->
 
 ## Word filter
 
-tittie
-nigger
-faggot
-jizz
-pornography
-ecchi
-loli
+bdsm
+beaner
+boobs
+chinks
 coxxi
-porn
+cunt
+dick
+dildo
+ecchi
 fag
 faggot
+faggot
 gook
-chinks
-beaner
-retard
-boobs
-bdsm
-horni
-cunt
-dildo
 hooker
+horni
+jizz
+loli
+nigger
 no nut november
+penis
+porn
+pornography
+retard
+tittie
 
 ## Url filter
 
@@ -41,8 +43,10 @@ anal
 anilingus
 anus
 apeshit
+arse
 arsehole
 ass
+asshole
 erotic
 autoerotic
 babeland
@@ -174,6 +178,7 @@ felch
 fellatio
 feltch
 female-squirting
+fendom
 femdom
 figging
 fingerbang
