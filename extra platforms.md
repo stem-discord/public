@@ -1,21 +1,69 @@
-# These are the official off-discord organizations we currently manage
+# These are the official organizations we manage
 
-patron: marcel
+## Donations & Financial
 
-reddit: deadpool
+Patron: Marcel
 
-github: nope
+Donation via PayPal: Marcel
+
+## Social platforms
+
+Discord: God
+
+Ban appeal server: nopeless
+
+Discord University: God
+
+Reddit: Deadpool
+
+Clash of Clans: Deadpool
+
+Minecraft Aternos: nopeless
+
+Minecraft vps: Retro
+
+## Development
+
+GitHub: nopeless
+
+Slack: nopeless
+
+Nemesis core devs: God, nopeless, Retro
+
+## Accounts
 
 gmail: sk
 
-website: nope
+## Websites
 
-minecraft (discontinued): nope
+stem.help: nopeless
 
-nemesis hosting: rem
+verify.stem.help: Retro
 
-clash of clans: deadpool
+stats.stem.help: God
 
-donation via paypal: marcel
+issues.stem.help: Remceau
 
-this server itself: god
+\*.stemdc.help: Remceau
+
+## Internals
+
+### Main services
+
+Nemesis hosting: Remceau
+
+STEM.HELP hosting: nopeless
+
+api.stem.help: nopeless
+
+stemdc.help vpn: Remceau
+
+Nemesis database: Remceau
+
+STEM Shield: Retro
+
+### Sub services
+
+Acd bot, Schwi, Cactus, Eliza hosting: nopeless
+
+Status checker: Retro, Remceau
