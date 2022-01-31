@@ -35,10 +35,20 @@ __Rules and Guidelines:__
 - No plagiarism is allowed. Only original content will be considered in the voting process.
 - Vote fraud (voting for yourself or someone else using an alternate account) is prohibited and will result in elimination from the competition.
 
-__Other information__:
-- The person with the most votes on their submission will win!
-- The top 5 scoring individuals will be congratulated and mentioned in #announcements.
-- The winner will receive an "Events Winner" role for a period of X days that will enable them to change their role colour (this is usually a booster or Top Helper privilege).
+__Prize__:
 
-Time to show off your creative skills. Good luck and have fun!!!
+First place: $20
+
+Second place: $15
+
+Third place: $10
+
+The above people will get Events Winner
+
+If there is a tie, the staff will cast an arbitrary vote based on a random number generator.
+
+Additional random person to get prize: $5
+
+> The random person is selected out of all participants who are not First, Second, and Third place and are not disqualified. A random number generator will be used.
+
 
