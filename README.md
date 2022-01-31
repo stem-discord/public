@@ -14,3 +14,4 @@ This includes the:
 8. [Guide on how to ask](https://github.com/stem-discord/public/blob/main/howtoask.md) - *A guide on how to ask for help successfully in the server*
 9. [Issues and Suggestions](https://github.com/stem-discord/public/blob/main/issues_and_suggestions.md) - *A list of issues and suggestions for the server*
 10. [Points guide](https://github.com/stem-discord/public/blob/main/points.md) - *A guide of how the server points system works*
+11. [Events](https://github.com/stem-discord/public/tree/main/events) - *List of server events*
