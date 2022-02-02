@@ -20,9 +20,9 @@ Welcome to the first-ever STEM server poem competition. You will be competing ag
 
 __Theme:__ The theme for our first poem competition will remain open-ended. That being said, you have the freedom to write about anything your heart desires in a format that suits your topic best. For reference, some popular poem forms include limerick, acrostic, couplet, Shakespearian sonnet, haiku, and villanelle.  
 
-__Additional Requirements:__ We recommend participants to aim for a maximum of 10 lines of writing with 150 words total. 
+__Additional Requirements:__ We recommend participants to aim for a maximum of 150 words in length. The total amount of lines are adjustable to meet your chosen poem structure, so long as your piece remains within 150 words.   
 
-__Submission method:__ During the period of the competition, you will be able to dm @Schwii with your submissions by using the submit poem command. These poems will be first screened by staff before being allowed to enter the competition.
+__Submission method:__ During the period of the competition, you will be able to turn in any submissions via a google forms link similar to how it was done during the christmas tree event. These poems will be first screened by staff before being allowed to enter the competition.
 
 > Note: you may only submit one poem in total
 
