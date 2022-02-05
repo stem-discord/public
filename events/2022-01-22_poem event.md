@@ -37,11 +37,11 @@ __Rules and Guidelines:__
 
 __Prize__:
 
-First place: $20
+First place: $15
 
-Second place: $15
+Second place: $10
 
-Third place: $10
+Third place: $5
 
 The above people will get Events Winner
 
