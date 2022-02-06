@@ -18,7 +18,9 @@ To:   Febuary 21, 2022 23:59 GMT
 
 Welcome to the first-ever STEM server poem competition. You will be competing against one another, creating poems you think the server will love. Unleash your inner creativity, your inner Shakespeare, your inner writer, or submit just for fun for a chance to receive the @events winner role! 
 
-__Theme:__ The theme for our first poem competition will remain open-ended. That being said, you have the freedom to write about anything your heart desires in a format that suits your topic best. For reference, some popular poem forms include limerick, acrostic, couplet, Shakespearian sonnet, haiku, and villanelle.  
+__Theme:__ The theme for our first poem competition will remain open-ended. That being said, you have the freedom to write about anything your heart desires in a format that suits your topic best. For reference, some popular poem forms include limerick, acrostic, couplet, Shakespearian sonnet, haiku, and villanelle.
+
+> Recommended themes: math, stem, valentines
 
 __Additional Requirements:__ We recommend participants to aim for a maximum of 150 words in length. As long as your piece remains within the 150 word limit, the total amount of lines are adjustable to meet your chosen poem structure.
 
