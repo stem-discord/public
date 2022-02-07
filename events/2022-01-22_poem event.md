@@ -1,9 +1,3 @@
-==============================
-
-# DRAFT
-
-==============================
-
 # STEM Server Poem Competition
 
 **Entries:** 
