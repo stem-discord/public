@@ -22,7 +22,7 @@ __Submission method:__ During the period of the competition, you will be able to
 
 > Note: you may only submit one poem in total
 
-__Judging method:__ Following the screening process once the submission time is over, the poems will be published and displayed anonymously in the #poem-competition channel. All interested server members will be pinged and notified once the voting period commences via the #announcements channel. The method of voting will be made clear once the submission time is over. The winners will be decided based upon the most popular vote. Make sure you pick your favourite piece!
+__Judging method:__ We count votes. See details on how we resolve a tie.
 
 __Rules and Guidelines:__ 
 - Only 1 submission per individual is allowed. If you submit more than once, only the last submission will be considered. 
