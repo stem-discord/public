@@ -48,3 +48,26 @@ Additional random person to get prize: $5
 > The random person is selected out of all participants who are not First, Second, and Third place and are not disqualified. A random number generator will be used.
 
 
+|Name|Upvotes|Downvotes|Score|
+| - | - | - | - |
+|ALC ~ Luka#0257|7|1|6|
+|lhf#8912|4|0|4|
+|Hide#0933|4|0|4|
+|retro#8664|5|1|4|
+|nope#6924|4|1|3|
+|SuperComputer29#3055|3|0|3|
+|Lyman-spectrey#1339|4|1|3|
+|Bella Blossom#8886|3|1|2|
+|The Fan Of The Beanie Man#3701|3|1|2|
+|Sid#2354|2|0|2|
+|T-90 A#4548|2|1|1|
+|Anonymous#0000|2|2|0|
+|Thermodaddynamics#3398|2|2|0|
+|Linkle Knight#6928|1|2|-1|
+|utahime#2959|1|2|-1|
+|FluffyButt#1611|0|3|-3|
+|Meat#8449|2|5|-3|
+|Rohan Baby#5764|0|3|-3|
+|Panpan#2416|0|3|-3|
+|A4 Copy Paper#5126|0|5|-5|
+|Tim Werbenjagermanjenson#4209|1|8|-7|
