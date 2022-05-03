@@ -1,4 +1,5 @@
-# Want some help with homework or other STEM-related problems? Follow this [`#how-to-ask`](https://discord.com/channels/493173110799859713/625027300920000542) guide.
+<!--- #how-to-ask--->
+# [#how-to-ask](https://discord.com/channels/493173110799859713/625027300920000542)
 
 ## How to ask questions:
 
