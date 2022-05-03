@@ -1,20 +1,18 @@
 # STEM Server ID card design contest
 
 **Entries:** 
-From: May 3rd, 2022 00:00 GMT 
-To:   May 21st, 2022 23:59 GMT 
+From: May 4th, 2022 00:00 GMT 
+To: May 21st, 2022 23:59 GMT 
 
 **Voting:** 
 From: May 21st, 2022 00:00 GMT 
-To:   May 31st, 2022 23:59 GMT
+To: May 31st, 2022 23:59 GMT
 
 **WINNERS WILL BE ANNOUNCED A FEW DAYS LATER (EXACT DATE TBD)**
 
 Welcome to the first-ever ID card design contest. You will be competing against one another, creating backdrop designs you think the server will love. Unleash your inner creativity, your inner Picasso, your inner artsist, or submit just for fun for a chance to receive the @events winner role! 
 
-__Theme:__ Anything! You can make your card any theme you want!
-
-> Recommended themes: math, stem, summer
+__Theme:__ The theme is STEM, but how you do that it is up to you and your creativity!
 
 __Additional Requirements:__
 
@@ -37,8 +35,8 @@ __Rules and Guidelines:__
 
 __Prize__:
 
-TBD
+First place: 5$ Nitro sponsered by @♡7ustJinx♡#4487, thank you!
 
-The above people will get Events Winner
+1st & 2nd place will also get the @Event Winner 🏆 role!
 
 If there is a tie, the staff will cast an arbitrary vote based on a random number generator.
