@@ -10,7 +10,7 @@ To: May 31st, 2022 23:59 GMT
 
 **WINNERS WILL BE ANNOUNCED A FEW DAYS LATER (EXACT DATE TBD)**
 
-Welcome to the first-ever ID card design contest. You will be competing against one another, creating backdrop designs you think the server will love. Unleash your inner creativity, your inner Picasso, your inner artsist, or submit just for fun for a chance to receive the @events winner role! 
+Welcome to the first-ever ID card design contest. You will be competing against one another, creating backdrop designs you think the server will love. Unleash your inner creativity, your inner Picasso, your inner artsist, or submit just for fun. Prizes will be given to 1st, 2nd, and 3rd place winners⁠— see details below. 
 
 __Theme:__ The theme is STEM, but how you do that it is up to you and your creativity!
 
@@ -20,23 +20,21 @@ __Additional Requirements:__
 * Your image must be in a 21:11 ratio (840\*440, W\*H).
 * Your image should not contain any text on it.
 
-__Submission method:__ During the period of the competition, you will need to upload submissions to discord and then copy & paste the link to the image in [this](https://forms.gle/yD2wfQHpWo4SmWncA) google form, if you run into any issues please ping @XpioWolf#9240. All submissions will be screened [or reviewed] by the staff before being allowed to enter the competition.
+__Submission method:__ During the period of the competition, you will need to upload submissions to Discord and then copy & paste the link to the image in [this](https://forms.gle/yD2wfQHpWo4SmWncA) google form, if you run into any issues please ping @XpioWolf#9240. All submissions will be screened [or reviewed] by the staff before being allowed to enter the competition.
 
 > Note: you may only submit one image in total
 
-__Judging method:__ We count votes. See details on how we resolve a tie.
+__Judging method:__ Votes will be cast by server members. If there is a tie, a random number generator will determine the winner.
 
 __Rules and Guidelines:__ 
 - Only 1 submission per individual is allowed. If you submit more than once, only the last submission will be considered. 
-- NFSW content is strictly prohibited and it is preferred that you avoid making any inflammatory submissions.
+- NFSW content is strictly prohibited and designs must follow Discord TOS + server rules. 
 - Any pieces of art submitted after the deadline or through other means than the form will not be considered.
 - No plagiarism is allowed. Only original content will be considered in the voting process.
-- Vote fraud (voting for yourself or someone else using an alternate account) is prohibited and will result in elimination from the competition.
+- Vote fraud (using an alternate account to vote for yourself or someone else more than once) is prohibited and will result in elimination from the competition.
 
-__Prize__:
+__Prizes__:
 
-First place: 5$ Nitro sponsered by @♡7ustJinx♡#4487, thank you!
-
-1st & 2nd place will also get the @Event Winner 🏆 role!
-
-If there is a tie, the staff will cast an arbitrary vote based on a random number generator.
+1st Place: ~50GBP/~$60USD/~60EUR Steam game + Event Winner role
+2nd Place: Nitro Classic + Event Winner role
+3rd Place: Nitro Classic + Event Winner role
