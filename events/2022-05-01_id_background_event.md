@@ -35,6 +35,6 @@ __Rules and Guidelines:__
 
 __Prizes__:
 
-1st Place: ~50GBP/~$60USD/~60EUR Steam game + Event Winner role
+1st Place: 50GBP/$60USD/60EUR Steam game + Event Winner role
 2nd Place: Nitro Classic + Event Winner role
 3rd Place: Nitro Classic + Event Winner role
