@@ -33,20 +33,20 @@ pornography
 retard
 tittie
 
+
+
 ## Url filter
+
 
 2g1c
 2-girls-1-cup
 acrotomophilia
-alabama
 anal
 anilingus
 anus
 apeshit
-arse
 arsehole
 ass
-asshole
 erotic
 autoerotic
 babeland
@@ -178,7 +178,6 @@ felch
 fellatio
 feltch
 female-squirting
-fendom
 femdom
 figging
 fingerbang
@@ -253,6 +252,7 @@ leather-restraint
 leather-straight-jacket
 lemon-party
 livesex
+loli
 lolita
 lovemaking
 make-me-come
@@ -438,5 +438,32 @@ xx
 xxx
 yaoi
 yellow-showers
+yuri
 yiffy
 zoophilia
+attachments/763091411679313958/827319958023307304/fnaf.mp4
+sub4sub
+vomit-puke-gif
+airdorp
+airdrop
+billing
+discordnitro
+free-nitr
+gift-nitro
+gift_nitro
+glft
+joinchat
+nitro-accept
+nitro-gift
+nitrodiscord
+nitrodrop
+nitrogift
+nitrogive
+newyearfreenitro
+redeem
+steam-accept
+steam-gift
+steamnitro
+steams
+trade
+tradeoffer
