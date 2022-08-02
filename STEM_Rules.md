@@ -216,7 +216,7 @@ We will NOT ACCEPT these as responsible justifications and therefore valid reaso
 + Trolling or otherwise uncooperative behaviour.
 </details>
 
-# MISC
+## **MISC**
 
 ## Venting Channel
 
