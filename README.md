@@ -10,7 +10,7 @@ This includes the:
 4. [Detailed Server Rules](https://github.com/stem-discord/public/blob/main/STEM_Rules.md) - *all members of the server must abide by these rules*
 5. [Server Terms of Service](https://github.com/stem-discord/public/blob/main/Server%20TOS.md) - *all members of the server must agree to these conditions*
 6. [List of GitHub contributors](https://github.com/stem-discord/public/blob/main/contribute.md) - *a list of all the members of the server who have contributed to GitHub in any way*
-7. [Server FAQ](https://github.com/stem-discord/public/blob/main/faq.md) - *Frequently Asked Questions about how the server works*
+7. [Server FAQ](https://github.com/stem-discord/public/blob/main/discord/info_channels_content/how_it_works.md) - *Frequently Asked Questions about how the server works*
 8. [Guide on how to ask](https://github.com/stem-discord/public/blob/main/howtoask.md) - *A guide on how to ask for help successfully in the server*
 9. [Issues and Suggestions](https://github.com/stem-discord/public/blob/main/issues_and_suggestions.md) - *A list of issues and suggestions for the server*
 10. [Points guide](https://github.com/stem-discord/public/blob/main/points.md) - *A guide of how the server points system works*
