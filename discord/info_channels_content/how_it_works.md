@@ -87,9 +87,7 @@ Note: Misuse of the channels may result in your access being revoked
 
 ## Q: What is `@𝕍𝖆𝖑𝖚𝖊𝕕` and how do you get Valued?
 
-❯ `@𝕍𝖆𝖑𝖚𝖊𝕕` is given to those who are generally a good influence, don't break rules (i.e. have a relatively clear record), have been in the server for some time, and are the people who others can look up to.
-
-❯ It is often believed that having more thank points will result in `@𝕍𝖆𝖑𝖚𝖊𝕕`, however, the role has little to nothing to do with thank points.
+❯ This role is removed
 
 ## Q: Who is moving around the math channels?
 
