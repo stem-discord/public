@@ -79,7 +79,7 @@ If you want to be study unmuted before the duration specified, you can DM `@Neme
 
 ## Q: How do I post my question in the advanced channels?
 
-❯ The `#advanced-<subject>` channels are restricted to members with the `@Advanced <subject>` role. If you want to post a question or help in one of the `advanced-<subject>` channels, ping an active `@𝕍𝖆𝖑𝖚𝖊𝕕` member and ask them ***politely*** to give you the `@Advanced <subject>` role, let them know exactly what courses you are taking so they can decide if you're advanced enough to gain access.
+❯ The `#advanced-<subject>` channels are restricted to members with the `@Advanced <subject>` role. If you want to post a question or help in one of the `advanced-<subject>` channels, ping an active moderator and ask them ***politely*** to give you the `@Advanced <subject>` role, let them know exactly what courses you are taking so they can decide if you're advanced enough to gain access.
 
 ❯ Don't post basic questions in these channels.
 
