@@ -171,17 +171,22 @@ Infractions are judged by their level of severity, and punished accordingly. Sev
 
 ## **APPEALS**  
 
-The appeal system is for those who feel they have been wrongly or disproportionately punished. It lets you defend your side and argue for a lesser punishment, or even void the punishment altogether. As a guideline, you should appeal only if you think the staff made a mistake regarding the situation or rules, or if what you did was accidental and you're fully repentant. Note the [How to Appeal Successfully](#how-to-appeal-successfully) section below. Each infraction may be appealed ONCE.  
+This section describes the process of appealing infractions made by the staff team. You are entitled to your rights; we will **always allow you to appeal a decision no more than once.**
 
-Punishment are otherwise FINAL; no complaints will be entertained. We aren't interested in wasting time on salty trolls. You may only appeal for yourself, and not another user. It is possible for the appeal to backfire and aggravate your punishment, if deemed appropriate. If your punishment spans multiple days, we suggest (although it's not required) that you wait at least 1 day before appealing, to clear the heads of both sides and thus achieve a fairer and more successful assessment and appeal.  
+The appeal process is conducted through a form. Simply type !form in the bot’s private message to appeal a decision. You will be forwarded a form you must fill out to appeal. The form will ask you to fill out the following information:
 
-### **How to Get an Appeal**  
+• Your discord username 
 
-If you are muted, there is a `#mute-chat` in this server for you to make your case. If you are banned, please reach out to a staff member indicating your intent to appeal. We will follow up.  
+• The severity of the infraction (warn, mute, kick, or ban)
 
-### **During an Appeal**  
+• Your appeal (no more than 300 words) 
 
-You are entitled to know all the reasons contributing to your punishment, along with all the evidence, the server rules, and information about the appeal process. The actual appeal involves you presenting your best arguments to the staff team. Your appeal will be visible to the whole staff team. Not everyone may feel like reading or replying, but typically the one who punished you will reply. It is completely up to the staff's discretion whether further discussion (of a point, or the appeal as a whole) is helpful.  
+The staff team will review your application in no more than 1 week. If your appeal is granted, but your infraction lasts less than a week, the offense will be removed from the Nemesis bot, and staff will not consider the infraction in their judgment for future cases. 
+
+NOTE: Be aware that the more appeals you make, the less lenient staff members will be on accepting an appeal. Do not waste an appeal uselessly. 
+
+If the staff members have further questions regarding the appeal process you initiated, expect to receive a direct message from the server bot Nemesis or an administrator. 
+
 
 ### **How to Appeal Successfully**  
 
