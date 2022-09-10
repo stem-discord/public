@@ -173,7 +173,7 @@ Infractions are judged by their level of severity, and punished accordingly. Sev
 
 This section describes the process of appealing infractions made by the staff team. You are entitled to your rights; we will **always allow you to appeal a decision no more than once.**
 
-The appeal process is conducted through a form. Simply type !form in the bot’s private message to appeal a decision. You will be forwarded a form you must fill out to appeal. The form will ask you to fill out the following information:
+The appeal process is conducted through a form. Simply type !form in the Nemesis bot’s private message to appeal a decision. You will be forwarded a form you must fill out to appeal. The form will ask you to fill out the following information:
 
 • Your discord username 
 
