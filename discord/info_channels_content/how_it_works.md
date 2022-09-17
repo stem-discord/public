@@ -79,7 +79,7 @@ If you want to be study unmuted before the duration specified, you can DM `@Neme
 
 ## Q: How do I post my question in the advanced channels?
 
-❯ The `#advanced-<subject>` channels are restricted to members with the `@Advanced <subject>` role. If you want to post a question or help in one of the `advanced-<subject>` channels, ping an active `@𝕍𝖆𝖑𝖚𝖊𝕕` member and ask them ***politely*** to give you the `@Advanced <subject>` role, let them know exactly what courses you are taking so they can decide if you're advanced enough to gain access.
+❯ The `#advanced-<subject>` channels are restricted to members with the `@Advanced <subject>` role. If you want to post a question or help in one of the `advanced-<subject>` channels, ping an active moderator and ask them ***politely*** to give you the `@Advanced <subject>` role, let them know exactly what courses you are taking so they can decide if you're advanced enough to gain access.
 
 ❯ Don't post basic questions in these channels.
 
@@ -87,9 +87,7 @@ Note: Misuse of the channels may result in your access being revoked
 
 ## Q: What is `@𝕍𝖆𝖑𝖚𝖊𝕕` and how do you get Valued?
 
-❯ `@𝕍𝖆𝖑𝖚𝖊𝕕` is given to those who are generally a good influence, don't break rules (i.e. have a relatively clear record), have been in the server for some time, and are the people who others can look up to.
-
-❯ It is often believed that having more thank points will result in `@𝕍𝖆𝖑𝖚𝖊𝕕`, however, the role has little to nothing to do with thank points.
+❯ This role is removed
 
 ## Q: Who is moving around the math channels?
 
